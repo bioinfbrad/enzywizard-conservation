@@ -1,0 +1,477 @@
+# STOCKHOLM 1.0
+#=GF ID 1LYZ-i3
+#=GF AU jackhmmer (HMMER 3.4)
+
+#=GS sp|P61633|LYSC_CHLAE/19-147  DE [subseq from] Lysozyme C OS=Chlorocebus aethiops OX=9534 GN=LYZ PE=2 SV=1
+#=GS sp|P61634|LYSC_ERYPA/19-147  DE [subseq from] Lysozyme C OS=Erythrocebus patas OX=9538 GN=LYZ PE=3 SV=1
+#=GS sp|P30201|LYSC_MACMU/19-147  DE [subseq from] Lysozyme C OS=Macaca mulatta OX=9544 GN=LYZ PE=2 SV=1
+#=GS sp|P61629|LYSC_PAPAN/19-147  DE [subseq from] Lysozyme C OS=Papio anubis OX=9555 GN=LYZ PE=1 SV=1
+#=GS sp|P61630|LYSC_CERAT/19-147  DE [subseq from] Lysozyme C OS=Cercocebus atys OX=9531 GN=LYZ PE=2 SV=1
+#=GS sp|P79806|LYSC_MIOTA/19-147  DE [subseq from] Lysozyme C OS=Miopithecus talapoin OX=36231 GN=LYZ PE=3 SV=1
+#=GS sp|P79294|LYSC_SAISC/19-147  DE [subseq from] Lysozyme C OS=Saimiri sciureus OX=9521 GN=LYZ PE=2 SV=1
+#=GS sp|P79687|LYSC_ALLNI/19-147  DE [subseq from] Lysozyme C OS=Allenopithecus nigroviridis OX=54135 GN=LYZ PE=3 SV=1
+#=GS sp|P79268|LYSC_SAGOE/19-147  DE [subseq from] Lysozyme C OS=Saguinus oedipus OX=9490 GN=LYZ PE=2 SV=1
+#=GS sp|P79158|LYSC_CALJA/19-147  DE [subseq from] Lysozyme C OS=Callithrix jacchus OX=9483 GN=LYZ PE=2 SV=1
+#=GS sp|P16973|LYSC_RABIT/1-129   DE [subseq from] Lysozyme C OS=Oryctolagus cuniculus OX=9986 GN=LYZ PE=1 SV=1
+#=GS sp|P61631|LYSC_COLAN/19-147  DE [subseq from] Lysozyme C OS=Colobus angolensis OX=54131 GN=LYZ PE=3 SV=1
+#=GS sp|P61632|LYSC_COLGU/19-147  DE [subseq from] Lysozyme C OS=Colobus guereza OX=33548 GN=LYZ PE=2 SV=1
+#=GS sp|P79811|LYSC_NASLA/19-147  DE [subseq from] Lysozyme C OS=Nasalis larvatus OX=43780 GN=LYZ PE=3 SV=1
+#=GS sp|P80190|LYSCK_SHEEP/1-129  DE [subseq from] Lysozyme C, kidney isozyme OS=Ovis aries OX=9940 PE=1 SV=1
+#=GS sp|P67977|LYSC_SEMEN/19-147  DE [subseq from] Lysozyme C OS=Semnopithecus entellus OX=88029 GN=LYZ PE=1 SV=1
+#=GS sp|P67978|LYSC_TRAVT/19-147  DE [subseq from] Lysozyme C OS=Trachypithecus vetulus OX=54137 GN=LYZ PE=3 SV=1
+#=GS sp|P67979|LYSC_TRAOB/19-147  DE [subseq from] Lysozyme C OS=Trachypithecus obscurus OX=54181 GN=LYZ PE=2 SV=1
+#=GS sp|P67980|LYSC_TRAFR/19-147  DE [subseq from] Lysozyme C OS=Trachypithecus francoisi OX=54180 GN=LYZ PE=2 SV=1
+#=GS sp|P79239|LYSC_PONPY/19-147  DE [subseq from] Lysozyme C OS=Pongo pygmaeus OX=9600 GN=LYZ PE=2 SV=1
+#=GS sp|P79180|LYSC_HYLLA/19-147  DE [subseq from] Lysozyme C OS=Hylobates lar OX=9580 GN=LYZ PE=2 SV=1
+#=GS sp|P79847|LYSC_PYGNE/19-147  DE [subseq from] Lysozyme C OS=Pygathrix nemaeus OX=54133 GN=LYZ PE=3 SV=1
+#=GS sp|P61626|LYSC_HUMAN/19-147  DE [subseq from] Lysozyme C OS=Homo sapiens OX=9606 GN=LYZ PE=1 SV=1
+#=GS sp|P61627|LYSC_PANPA/19-147  DE [subseq from] Lysozyme C OS=Pan paniscus OX=9597 GN=LYZ PE=3 SV=1
+#=GS sp|P61628|LYSC_PANTR/19-147  DE [subseq from] Lysozyme C OS=Pan troglodytes OX=9598 GN=LYZ PE=2 SV=1
+#=GS sp|P79179|LYSC_GORGO/19-147  DE [subseq from] Lysozyme C OS=Gorilla gorilla gorilla OX=9595 GN=LYZ PE=2 SV=1
+#=GS sp|P17897|LYZ1_MOUSE/19-147  DE [subseq from] Lysozyme C-1 OS=Mus musculus OX=10090 GN=Lyz1 PE=1 SV=1
+#=GS sp|P81709|LYSC2_CANLF/1-129  DE [subseq from] Lysozyme C, spleen isozyme OS=Canis lupus familiaris OX=9615 PE=1 SV=1
+#=GS sp|Q6B411|LYSM_BOVIN/19-147  DE [subseq from] Lysozyme C, milk isozyme OS=Bos taurus OX=9913 PE=2 SV=1
+#=GS sp|P12069|LYSC3_PIG/19-148   DE [subseq from] Lysozyme C-3 OS=Sus scrofa OX=9823 PE=1 SV=2
+#=GS sp|P08905|LYZ2_MOUSE/19-147  DE [subseq from] Lysozyme C-2 OS=Mus musculus OX=10090 GN=Lyz2 PE=1 SV=2
+#=GS sp|P24533|LYSC_SYRRE/1-129   DE [subseq from] Lysozyme C OS=Syrmaticus reevesii OX=9066 GN=LYZ PE=1 SV=1
+#=GS sp|P00698|LYSC_CHICK/19-147  DE [subseq from] Lysozyme C OS=Gallus gallus OX=9031 GN=LYZ PE=1 SV=1
+#=GS sp|P19849|LYSC_PAVCR/1-129   DE [subseq from] Lysozyme C OS=Pavo cristatus OX=9049 GN=LYZ PE=1 SV=1
+#=GS sp|P12067|LYSC1_PIG/1-128    DE [subseq from] Lysozyme C-1 OS=Sus scrofa OX=9823 PE=1 SV=1
+#=GS sp|P80189|LYSCN_BOVIN/19-147 DE [subseq from] Lysozyme C, non-stomach isozyme OS=Bos taurus OX=9913 GN=LYS PE=2 SV=4
+#=GS sp|Q7LZP9|LYSC_LOPIM/1-129   DE [subseq from] Lysozyme C OS=Lophophorus impejanus OX=9040 GN=LYZ PE=1 SV=1
+#=GS sp|Q7LZQ0|LYSC_CATWA/1-129   DE [subseq from] Lysozyme C OS=Catreus wallichii OX=9085 GN=LYZ PE=1 SV=1
+#=GS sp|P49663|LYSC_PHAVE/2-130   DE [subseq from] Lysozyme C OS=Phasianus versicolor OX=9055 GN=LYZ PE=1 SV=1
+#=GS sp|P00702|LYSC_PHACO/19-147  DE [subseq from] Lysozyme C OS=Phasianus colchicus colchicus OX=9057 GN=LYZ PE=1 SV=2
+#=GS sp|P24364|LYSC_LOPLE/1-129   DE [subseq from] Lysozyme C OS=Lophura leucomelanos OX=140445 GN=LYZ PE=1 SV=1
+#=GS sp|Q659U1|LYSC_PHOVI/19-147  DE [subseq from] Lysozyme C OS=Phoca vitulina OX=9720 GN=LYZ PE=2 SV=1
+#=GS sp|Q659U5|LYSC_HALGR/19-147  DE [subseq from] Lysozyme C OS=Halichoerus grypus OX=9711 GN=LYZ PE=2 SV=1
+#=GS sp|P00701|LYSC_COTJA/19-147  DE [subseq from] Lysozyme C OS=Coturnix japonica OX=93934 GN=LYZ PE=1 SV=2
+#=GS sp|P22910|LYSC_CHRAM/1-129   DE [subseq from] Lysozyme C OS=Chrysolophus amherstiae OX=9088 GN=LYZ PE=1 SV=1
+#=GS sp|P00697|LYSC1_RAT/19-147   DE [subseq from] Lysozyme C-1 OS=Rattus norvegicus OX=10116 GN=Lyz1 PE=1 SV=2
+#=GS sp|Q659U0|LYSC_LEPWE/19-147  DE [subseq from] Lysozyme C OS=Leptonychotes weddellii OX=9713 GN=LYZ PE=2 SV=1
+#=GS sp|P00700|LYSC_COLVI/1-129   DE [subseq from] Lysozyme C OS=Colinus virginianus OX=9014 GN=LYZ PE=1 SV=2
+#=GS sp|Q7LZI3|LYSC_TRASA/1-129   DE [subseq from] Lysozyme C OS=Tragopan satyra OX=9070 GN=LYZ PE=1 SV=1
+#=GS sp|Q7LZT2|LYSC_TRATE/1-129   DE [subseq from] Lysozyme C OS=Tragopan temminckii OX=9071 GN=LYZ PE=1 SV=1
+#=GS sp|Q7LZQ2|LYSC_AIXSP/1-129   DE [subseq from] Lysozyme C OS=Aix sponsa OX=8833 GN=LYZ PE=1 SV=1
+#=GS sp|P00699|LYSC_CALCC/1-129   DE [subseq from] Lysozyme C OS=Callipepla californica OX=67771 GN=LYZ PE=1 SV=1
+#=GS sp|P00705|LYSC1_ANAPL/19-147 DE [subseq from] Lysozyme C-1 OS=Anas platyrhynchos OX=8839 PE=1 SV=1
+#=GS sp|Q7LZQ1|LYSC_PELSI/2-131   DE [subseq from] Lysozyme C OS=Pelodiscus sinensis OX=13735 GN=LYZ PE=1 SV=3
+#=GS sp|Q7LZQ3|LYSC_CRAFA/1-129   DE [subseq from] Lysozyme C OS=Crax fasciolata OX=84988 GN=LYZ PE=1 SV=1
+#=GS sp|P00703|LYSC_MELGA/19-147  DE [subseq from] Lysozyme C OS=Meleagris gallopavo OX=9103 GN=LYZ PE=1 SV=2
+#=GS sp|P12068|LYSC2_PIG/19-146   DE [subseq from] Lysozyme C-2 OS=Sus scrofa OX=9823 PE=1 SV=2
+#=GS sp|P37712|LYSC_CAMDR/1-130   DE [subseq from] Lysozyme C OS=Camelus dromedarius OX=9838 GN=LYZ PE=1 SV=1
+#=GS sp|P00706|LYSC3_ANAPL/1-129  DE [subseq from] Lysozyme C-3 OS=Anas platyrhynchos OX=8839 PE=1 SV=1
+#=GS sp|P00707|LYSC_ORTVE/1-129   DE [subseq from] Lysozyme C OS=Ortalis vetula OX=8984 GN=LYZ PE=1 SV=1
+#=GS sp|P85345|LYSC_AMYCA/1-130   DE [subseq from] Lysozyme C OS=Amyda cartilaginea OX=161655 GN=LYZ PE=1 SV=1
+#=GS sp|G3XDT7|LYSC_DRONO/19-146  DE [subseq from] Lysozyme C OS=Dromaius novaehollandiae OX=8790 PE=2 SV=1
+#=GS sp|P11941|LYSC2_ONCMY/16-143 DE [subseq from] Lysozyme C II OS=Oncorhynchus mykiss OX=8022 PE=1 SV=2
+#=GS sp|Q9DD65|LYSC_PAROL/16-143  DE [subseq from] Lysozyme C OS=Paralichthys olivaceus OX=8255 PE=2 SV=1
+#=GS sp|Q05820|LYSC2_RAT/19-147   DE [subseq from] Putative lysozyme C-2 OS=Rattus norvegicus OX=10116 GN=Lyz2 PE=5 SV=1
+#=GS sp|P00704|LYSC_NUMME/1-129   DE [subseq from] Lysozyme C OS=Numida meleagris OX=8996 GN=LYZ PE=1 SV=2
+#=GS sp|P81711|LYSC_SYRSO/1-129   DE [subseq from] Lysozyme C OS=Syrmaticus soemmerringii OX=9067 GN=LYZ PE=1 SV=1
+#=GS sp|P84492|LYSC_CHEMY/1-130   DE [subseq from] Lysozyme C OS=Chelonia mydas OX=8469 GN=LYZ PE=1 SV=1
+#=GS sp|P61944|LYSC_TAKRU/16-143  DE [subseq from] Lysozyme C OS=Takifugu rubripes OX=31033 PE=2 SV=1
+#=GS sp|Q06285|LYSC1_BOVIN/19-147 DE [subseq from] Lysozyme C-1 OS=Bos taurus OX=9913 GN=LYZ1 PE=2 SV=2
+#=GS sp|Q9PU28|LYSC_SCOMX/16-142  DE [subseq from] Lysozyme C OS=Scophthalmus maximus OX=52904 GN=lys PE=2 SV=1
+#=GS sp|Q06284|LYSC3_BOVIN/19-147 DE [subseq from] Lysozyme C-3 OS=Bos taurus OX=9913 GN=LYZ3 PE=2 SV=2
+#=GS sp|Q06283|LYSC2_BOVIN/19-147 DE [subseq from] Lysozyme C-2 OS=Bos taurus OX=9913 GN=LYZ2 PE=1 SV=2
+#=GS sp|P37713|LYSC1_CAPHI/1-129  DE [subseq from] Lysozyme C-1 OS=Capra hircus OX=9925 PE=1 SV=1
+#=GS sp|P17607|LYSC1_SHEEP/19-147 DE [subseq from] Lysozyme C-1 OS=Ovis aries OX=9940 PE=2 SV=2
+#=GS sp|P12066|LYSC_AXIAX/1-129   DE [subseq from] Lysozyme C-1/C-2 OS=Axis axis OX=30531 PE=1 SV=1
+#=GS sp|P37714|LYSC2_CAPHI/1-129  DE [subseq from] Lysozyme C-2 OS=Capra hircus OX=9925 PE=1 SV=1
+#=GS sp|Q9TUN1|LYSC3_SHEEP/19-147 DE [subseq from] Lysozyme C-3 OS=Ovis aries OX=9940 PE=2 SV=1
+#=GS sp|P04421|LYSC_BOVIN/19-147  DE [subseq from] Lysozyme C OS=Bos taurus OX=9913 GN=LYZ1 PE=1 SV=2
+#=GS sp|Q27996|LYSCT_BOVIN/19-146 DE [subseq from] Lysozyme C, tracheal isozyme OS=Bos taurus OX=9913 PE=2 SV=1
+#=GS sp|P85045|LYS_BUFGA/18-146   DE [subseq from] Lysozyme C (Fragment) OS=Bufo gargarizans andrewsi OX=61428 PE=1 SV=1
+#=GS sp|Q6B410|LYSI_BOVIN/19-147  DE [subseq from] Lysozyme C, intestinal isozyme OS=Bos taurus OX=9913 PE=2 SV=1
+#=GS sp|P81708|LYSC1_CANLF/1-129  DE [subseq from] Lysozyme C, milk isozyme OS=Canis lupus familiaris OX=9615 PE=1 SV=1
+#=GS sp|P51782|LYSC_TRIVU/19-147  DE [subseq from] Lysozyme C OS=Trichosurus vulpecula OX=9337 GN=LYZ PE=1 SV=1
+#=GS sp|P11375|LYSC_EQUAS/1-129   DE [subseq from] Lysozyme C OS=Equus asinus OX=9793 GN=LYZ PE=1 SV=1
+#=GS sp|P11376|LYSC1_HORSE/1-129  DE [subseq from] Lysozyme C, milk isozyme OS=Equus caballus OX=9796 GN=LYZ PE=1 SV=1
+#=GS sp|P00708|LYSC_COLLI/2-127   DE [subseq from] Lysozyme C OS=Columba livia OX=8932 GN=LYZ PE=1 SV=1
+#=GS sp|Q91159|LYSC_OPIHO/22-145  DE [subseq from] Lysozyme C OS=Opisthocomus hoazin OX=30419 GN=LYZ PE=1 SV=1
+#=GS sp|P37156|LYSC1_TACAC/1-123  DE [subseq from] Lysozyme C I OS=Tachyglossus aculeatus aculeatus OX=49271 PE=1 SV=1
+#=GS sp|A0JNM6|LYZL1_BOVIN/20-146 DE [subseq from] Lysozyme-like protein 1 OS=Bos taurus OX=9913 GN=LYZL1 PE=2 SV=1
+#=GS sp|A6QQ77|SACA3_BOVIN/36-163 DE [subseq from] Sperm acrosome membrane-associated protein 3 OS=Bos taurus OX=9913 GN=SPACA3 PE=2 SV=1
+#=GS sp|B6VH75|SACA3_CANLF/36-163 DE [subseq from] Sperm acrosome membrane-associated protein 3 OS=Canis lupus familiaris OX=9615 GN=SPACA3 PE=2 SV=1
+#=GS sp|Q6UWQ5|LYZL1_HUMAN/20-146 DE [subseq from] Lysozyme-like protein 1 OS=Homo sapiens OX=9606 GN=LYZL1 PE=2 SV=2
+#=GS sp|Q9CPX3|LYZL1_MOUSE/20-146 DE [subseq from] Lysozyme-like protein 1 OS=Mus musculus OX=10090 GN=Lyzl1 PE=1 SV=1
+#=GS sp|B6VH76|SACA3_PANTR/88-214 DE [subseq from] Sperm acrosome membrane-associated protein 3 OS=Pan troglodytes OX=9598 GN=SPACA3 PE=3 SV=1
+#=GS sp|Q96QH8|LYZL5_HUMAN/22-148 DE [subseq from] Sperm acrosome-associated protein 5 OS=Homo sapiens OX=9606 GN=SPACA5 PE=1 SV=1
+#=GS sp|Q7Z4W2|LYZL2_HUMAN/20-146 DE [subseq from] Lysozyme-like protein 2 OS=Homo sapiens OX=9606 GN=LYZL2 PE=1 SV=2
+#=GS sp|A2AE20|LYZL5_MOUSE/22-148 DE [subseq from] Sperm acrosome-associated protein 5 OS=Mus musculus OX=10090 GN=Spaca5 PE=1 SV=1
+#=GS sp|Q32PD6|LYZL5_BOVIN/19-145 DE [subseq from] Sperm acrosome-associated protein 5 OS=Bos taurus OX=9913 GN=SPACA5 PE=2 SV=1
+#=GS sp|Q8IXA5|SACA3_HUMAN/88-214 DE [subseq from] Sperm acrosome membrane-associated protein 3 OS=Homo sapiens OX=9606 GN=SPACA3 PE=1 SV=1
+#=GS sp|Q9D9X8|SACA3_MOUSE/94-220 DE [subseq from] Sperm acrosome membrane-associated protein 3 OS=Mus musculus OX=10090 GN=Spaca3 PE=1 SV=2
+#=GS sp|Q9DA11|LYZL6_MOUSE/21-147 DE [subseq from] Lysozyme-like protein 6 OS=Mus musculus OX=10090 GN=Lyzl6 PE=1 SV=1
+#=GS sp|Q29RT1|LYZL6_BOVIN/22-147 DE [subseq from] Lysozyme-like protein 6 OS=Bos taurus OX=9913 GN=LYZL6 PE=2 SV=1
+#=GS sp|O75951|LYZL6_HUMAN/22-147 DE [subseq from] Lysozyme-like protein 6 OS=Homo sapiens OX=9606 GN=LYZL6 PE=1 SV=1
+#=GS sp|P08334|LALB1_HORSE/1-120  DE [subseq from] Alpha-lactalbumin A OS=Equus caballus OX=9796 PE=1 SV=2
+#=GS sp|P28546|LALBA_EQUAS/1-120  DE [subseq from] Alpha-lactalbumin OS=Equus asinus OX=9793 GN=LALBA PE=1 SV=1
+#=GS sp|P30805|LALBA_ORNAN/2-125  DE [subseq from] Alpha-lactalbumin OS=Ornithorhynchus anatinus OX=9258 GN=LALBA PE=1 SV=1
+#=GS sp|P00712|LALBA_CAPHI/21-139 DE [subseq from] Alpha-lactalbumin OS=Capra hircus OX=9925 GN=LALBA PE=1 SV=1
+#=GS sp|Q9TSN6|LALBA_BUBBU/21-139 DE [subseq from] Alpha-lactalbumin OS=Bubalus bubalis OX=89462 GN=LALBA PE=1 SV=2
+#=GS sp|P00711|LALBA_BOVIN/21-139 DE [subseq from] Alpha-lactalbumin OS=Bos taurus OX=9913 GN=LALBA PE=1 SV=2
+#=GS sp|P09462|LALBA_SHEEP/21-139 DE [subseq from] Alpha-lactalbumin OS=Ovis aries OX=9940 GN=LALBA PE=1 SV=2
+#=GS sp|P81646|LALBA_TACAC/1-125  DE [subseq from] Alpha-lactalbumin OS=Tachyglossus aculeatus aculeatus OX=49271 GN=LALBA PE=1 SV=1
+#=GS sp|P00709|LALBA_HUMAN/20-139 DE [subseq from] Alpha-lactalbumin OS=Homo sapiens OX=9606 GN=LALBA PE=1 SV=1
+#=GS sp|Q9TSR4|LALBA_BOSMU/21-139 DE [subseq from] Alpha-lactalbumin OS=Bos mutus grunniens OX=30521 GN=LALBA PE=2 SV=1
+#=GS sp|Q9N2G9|LALBA_CANLF/20-139 DE [subseq from] Alpha-lactalbumin OS=Canis lupus familiaris OX=9615 GN=LALBA PE=2 SV=1
+#=GS sp|P18137|LALBA_PIG/20-138   DE [subseq from] Alpha-lactalbumin OS=Sus scrofa OX=9823 GN=LALBA PE=1 SV=2
+#=GS sp|D4ABW7|LYZL4_RAT/21-145   DE [subseq from] Lysozyme-like protein 4 OS=Rattus norvegicus OX=10116 GN=Lyzl4 PE=1 SV=1
+#=GS sp|P12065|LALBA_PAPCY/1-120  DE [subseq from] Alpha-lactalbumin OS=Papio cynocephalus OX=9556 GN=LALBA PE=1 SV=1
+#=GS sp|P08896|LALB2_HORSE/1-120  DE [subseq from] Alpha-lactalbumin B/C OS=Equus caballus OX=9796 PE=1 SV=1
+#=GS sp|Q17005|LYSC1_ANOGA/21-135 DE [subseq from] Lysozyme c-1 OS=Anopheles gambiae OX=7165 GN=AGAP007347 PE=2 SV=2
+#=GS sp|Q9D925|LYZL4_MOUSE/21-145 DE [subseq from] Lysozyme-like protein 4 OS=Mus musculus OX=10090 GN=Lyzl4 PE=1 SV=3
+#=GS sp|P00710|LALBA_CAMDR/1-120  DE [subseq from] Alpha-lactalbumin OS=Camelus dromedarius OX=9838 GN=LALBA PE=1 SV=1
+#=GS sp|Q2T9N7|LYZL4_BOVIN/21-145 DE [subseq from] Lysozyme-like protein 4 OS=Bos taurus OX=9913 GN=LYZL4 PE=2 SV=1
+#=GS sp|Q96KX0|LYZL4_HUMAN/22-146 DE [subseq from] Lysozyme-like protein 4 OS=Homo sapiens OX=9606 GN=LYZL4 PE=1 SV=1
+#=GS sp|P29752|LALBA_MOUSE/23-140 DE [subseq from] Alpha-lactalbumin OS=Mus musculus OX=10090 GN=Lalba PE=1 SV=1
+#=GS sp|P00714|LALBA_RAT/22-139   DE [subseq from] Alpha-lactalbumin OS=Rattus norvegicus OX=10116 GN=Lalba PE=1 SV=1
+#=GS sp|P00716|LALBA_RABIT/21-139 DE [subseq from] Alpha-lactalbumin OS=Oryctolagus cuniculus OX=9986 GN=LALBA PE=1 SV=2
+#=GS sp|P00713|LALBA_CAVPO/20-139 DE [subseq from] Alpha-lactalbumin OS=Cavia porcellus OX=10141 GN=LALBA PE=1 SV=2
+#=GS sp|P48816|LYS_BOMMO/19-129   DE [subseq from] Lysozyme OS=Bombyx mori OX=7091 PE=1 SV=1
+#=GS sp|Q7YT16|LYS1_MUSDO/20-132  DE [subseq from] Lysozyme 1 OS=Musca domestica OX=7370 PE=1 SV=1
+#=GS sp|P82174|LYS_GALME/1-117    DE [subseq from] Lysozyme OS=Galleria mellonella OX=7137 PE=1 SV=2
+#=GS sp|C1IIX1|LYSC_PENME/19-147  DE [subseq from] Lysozyme C OS=Penaeus merguiensis OX=71412 PE=2 SV=1
+#=GS sp|P29615|LYSP_DROME/21-132  DE [subseq from] Lysozyme P OS=Drosophila melanogaster OX=7227 GN=LysP PE=2 SV=1
+#=GS sp|D9J143|LYS1B_LUCSE/21-134 DE [subseq from] Lysozyme 1B OS=Lucilia sericata OX=13632 PE=2 SV=1
+#=GS sp|P37159|LYSE_DROME/20-131  DE [subseq from] Lysozyme E OS=Drosophila melanogaster OX=7227 GN=LysE PE=2 SV=2
+#=GS sp|P83972|LYSD_DROME/20-131  DE [subseq from] Lysozyme D OS=Drosophila melanogaster OX=7227 GN=LysD PE=2 SV=1
+#=GS sp|Q08694|LYSB_DROME/20-131  DE [subseq from] Lysozyme B OS=Drosophila melanogaster OX=7227 GN=LysB PE=2 SV=2
+#=GS sp|D9J142|LYS1A_LUCSE/20-132 DE [subseq from] Inactive lysozyme 1A OS=Lucilia sericata OX=13632 PE=2 SV=1
+#=GS sp|C0HLB7|LYS2_LUCSE/21-133  DE [subseq from] Lysozyme 2 OS=Lucilia sericata OX=13632 PE=2 SV=1
+#=GS sp|P37161|LYSX_DROME/21-132  DE [subseq from] Lysozyme X OS=Drosophila melanogaster OX=7227 GN=LysX PE=2 SV=2
+#=GS sp|Q29145|LALBA_TRIVU/20-138 DE [subseq from] Alpha-lactalbumin OS=Trichosurus vulpecula OX=9337 GN=LALBA PE=1 SV=1
+#=GS sp|P50717|LYS_HYPCU/25-137   DE [subseq from] Lysozyme OS=Hyphantria cunea OX=39466 PE=2 SV=1
+#=GS sp|P05105|LYS_HYACE/20-131   DE [subseq from] Lysozyme OS=Hyalophora cecropia OX=7123 PE=2 SV=2
+#=GS sp|P07458|LALBA_NOTRU/3-119  DE [subseq from] Alpha-lactalbumin OS=Notamacropus rufogriseus OX=1960652 GN=LALBA PE=1 SV=1
+#=GS sp|Q06655|LALBA_NOTEU/22-138 DE [subseq from] Alpha-lactalbumin OS=Notamacropus eugenii OX=9315 GN=LALBA PE=2 SV=2
+#=GS sp|Q7SID7|LYS_ANTMY/1-113    DE [subseq from] Lysozyme OS=Antheraea mylitta OX=34739 PE=1 SV=1
+#=GS sp|P37160|LYSS_DROME/21-131  DE [subseq from] Lysozyme S OS=Drosophila melanogaster OX=7227 GN=LysS PE=2 SV=2
+#=GS sp|P50718|LYS_TRINI/25-134   DE [subseq from] Lysozyme OS=Trichoplusia ni OX=7111 PE=2 SV=1
+#=GS sp|B6VH77|SACA3_PONPY/88-167 DE [subseq from] Sperm acrosome membrane-associated protein 3 (Fragment) OS=Pongo pygmaeus OX=9600 GN=SPACA3 PE=3 SV=1
+#=GS sp|B6VH79|SACA3_PAPHA/87-166 DE [subseq from] Sperm acrosome membrane-associated protein 3 (Fragment) OS=Papio hamadryas OX=9557 GN=SPACA3 PE=3 SV=1
+#=GS sp|Q54F36|Y1137_DICDI/28-122 DE [subseq from] Lysozyme C-like protein DDB_G0291137 OS=Dictyostelium discoideum OX=44689 GN=lyC2 PE=3 SV=1
+#=GS sp|P21776|LYSC_PSEPE/3-47    DE [subseq from] Lysozyme C (Fragment) OS=Pseudocheirus peregrinus OX=9333 GN=LYZ PE=1 SV=1
+#=GS sp|Q07568|IPGF_SHIFL/37-68   DE [subseq from] Protein IpgF OS=Shigella flexneri OX=623 GN=ipgF PE=3 SV=1
+#=GS sp|Q55287|IPGF_SHISO/37-68   DE [subseq from] Protein IpgF OS=Shigella sonnei OX=624 GN=ipgF PE=3 SV=1
+#=GS sp|P81710|LYSC2_HORSE/1-32   DE [subseq from] Lysozyme C, spleen isozyme (Fragment) OS=Equus caballus OX=9796 PE=1 SV=1
+#=GS sp|P19122|LALBA_MACGI/3-40   DE [subseq from] Alpha-lactalbumin I (Fragment) OS=Macropus giganteus OX=9317 GN=LALBA PE=1 SV=1
+
+1LYZ                                 KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESN-FNTQATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VQAWIRGCRL
+sp|P61633|LYSC_CHLAE/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESG-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVRDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P61633|LYSC_CHLAE/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61634|LYSC_ERYPA/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESG-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVRDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P61634|LYSC_ERYPA/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P30201|LYSC_MACMU/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESN-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVSDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P30201|LYSC_MACMU/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61629|LYSC_PAPAN/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESD-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVSDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P61629|LYSC_PAPAN/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61630|LYSC_CERAT/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESD-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVSDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P61630|LYSC_CERAT/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79806|LYSC_MIOTA/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESD-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACHISCNALLQDNIADAVTCAKRVVRDP-------QGIRAWVAWRN-HCHNRD-VSQYVQGCG-
+#=GR sp|P79806|LYSC_MIOTA/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79294|LYSC_SAISC/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESD-YNTRATN-YNPGDQSTDYGIFQINSHYWCN---NG---RTPGAVNACHISCNALLQDDITQAVACAKRVVRDP-------QGIRAWVAWKA-HCQNRD-VSQYVQGCG-
+#=GR sp|P79294|LYSC_SAISC/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79687|LYSC_ALLNI/19-147          KIFERCELARTLKRLGLDGYRGISLANWVCLAKWESD-YNTQATN-YNPGDQSTDYGIFQINSHYWCN---NG---KTPGAVNACRISCNALLQDNIADAVTCAKRVVRDP-------QGIRAWVAWRN-HCQNRD-VSQYVQGCG-
+#=GR sp|P79687|LYSC_ALLNI/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79268|LYSC_SAGOE/19-147          KVFERCELARTLKRLGLDGYRGISLANWMCLAKWESD-YNTRATN-YNPGDQSTDYGIFQINSHYWCN---NG---RTPGAVNACHISCNALLQDDITEAVACAKRVVRDP-------QGIRAWVAWKA-HCQNRD-VSQYIQGCG-
+#=GR sp|P79268|LYSC_SAGOE/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79158|LYSC_CALJA/19-147          KVFERCELARTLKRFGLDGYRGISLANWMCLAKWESD-YNTRATN-YNPGDQSTDYGIFQINSHYWCN---NG---RTPGAVNACHISCNALLQDDITEAVACAKRVVRDP-------QGIRAWVAWKA-HCQNRD-VSQYVQGCG-
+#=GR sp|P79158|LYSC_CALJA/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P16973|LYSC_RABIT/1-129           KIYERCELARTLKKLGLDGYKGVSLANWMCLAKWESS-YNTRATN-YNPGDKSTDYGIFQINSRYWCN---DG---KTPRAVNACHIPCSDLLKDDITQAVACAKRVVSDP-------QGIRAWVAWRN-HCQNQD-LTPYIRGCG-
+#=GR sp|P16973|LYSC_RABIT/1-129   PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61631|LYSC_COLAN/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTDATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVNACHISCNALLQNNIADAVACAKRVVSDP-------QGIRAWVAWKK-HCQNRD-VSQYVEGCG-
+#=GR sp|P61631|LYSC_COLAN/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61632|LYSC_COLGU/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTDATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVNACHISCNALLQNNIADAVACAKRVVSDP-------QGIRAWVAWKK-HCQNRD-VSQYVEGCG-
+#=GR sp|P61632|LYSC_COLGU/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79811|LYSC_NASLA/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGIRAWVAWRN-HCQNRD-VSQYVKGCG-
+#=GR sp|P79811|LYSC_NASLA/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P80190|LYSCK_SHEEP/1-129          KVFERCELARTLKRFGMDGFRGISLANWMCLARWESS-YNTQATN-YNSGDRSTDYGIFQINSHWWCN---DG---KTPGAVNACHIPCSALLQDDITQAVACAKRVVSDP-------QGIRAWVAWRS-HCQNQD-LTSYIQGCG-
+#=GR sp|P80190|LYSCK_SHEEP/1-129  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P67977|LYSC_SEMEN/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGIRAWVAWRN-HCQNKD-VSQYVKGCG-
+#=GR sp|P67977|LYSC_SEMEN/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P67978|LYSC_TRAVT/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGIRAWVAWRN-HCQNKD-VSQYVKGCG-
+#=GR sp|P67978|LYSC_TRAVT/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P67979|LYSC_TRAOB/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGIRAWVAWRN-HCQNKD-VSQYVKGCG-
+#=GR sp|P67979|LYSC_TRAOB/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P67980|LYSC_TRAFR/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGIRAWVAWRN-HCQNKD-VSQYVKGCG-
+#=GR sp|P67980|LYSC_TRAFR/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79239|LYSC_PONPY/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNPGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCSALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-VRQYVQGCG-
+#=GR sp|P79239|LYSC_PONPY/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79180|LYSC_HYLLA/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNPGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCNALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-LRQYIQGCG-
+#=GR sp|P79180|LYSC_HYLLA/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P79847|LYSC_PYGNE/19-147          KIFERCELARTLKKLGLDGYKGVSLANWVCLAKWESG-YNTEATN-YNPGDESTDYGIFQINSRYWCN---NG---KTPGAVDACHISCSALLQNNIADAVACAKRVVSDP-------QGVRAWVAWRN-HCQNKD-VSQYVKGCG-
+#=GR sp|P79847|LYSC_PYGNE/19-147  PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|P61626|LYSC_HUMAN/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNAGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCSALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-VRQYVQGCG-
+#=GR sp|P61626|LYSC_HUMAN/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P61627|LYSC_PANPA/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNAGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCSALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-VRQYVQGCG-
+#=GR sp|P61627|LYSC_PANPA/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P61628|LYSC_PANTR/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNAGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCSALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-VRQYVQGCG-
+#=GR sp|P61628|LYSC_PANTR/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P79179|LYSC_GORGO/19-147          KVFERCELARTLKRLGMDGYRGISLANWMCLAKWESG-YNTRATN-YNAGDRSTDYGIFQINSRYWCN---DG---KTPGAVNACHLSCSALLQDNIADAVACAKRVVRDP-------QGIRAWVAWRN-RCQNRD-VRQYVQGCG-
+#=GR sp|P79179|LYSC_GORGO/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P17897|LYZ1_MOUSE/19-147          KVYNRCELARILKRNGMDGYRGVKLADWVCLAQHESN-YNTRATN-YNRGDRSTDYGIFQINSRYWCN---DG---KTPRSKNACGINCSALLQDDITAAIQCAKRVVRDP-------QGIRAWVAWRT-QCQNRD-LSQYIRNCG-
+#=GR sp|P17897|LYZ1_MOUSE/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P81709|LYSC2_CANLF/1-129          KIFERCELARTLKNLGLAGYKGVSLANWVCLAKWESN-YNTRATN-YNPGSKSTDYGIFQINSRYWCN---DG---KTPRAVNACHISCSALLQDDITQAVACAKRVVSDP-------NGIRAWVAWRA-HCENRD-VSQYVRNCG-
+#=GR sp|P81709|LYSC2_CANLF/1-129  PP 79***********************************.*******.**999*****************...**...***********************************.......***********.******.********6.
+sp|Q6B411|LYSM_BOVIN/19-147          KKFQRCELARTLKKLGLDGYRGVSLANWVCLARWESN-YNTRATN-YNRGDKSTDYGIFQINSRWWCN---DG---KTPKAVNACRIPCSALLKDDITQAVACAKRVVRDP-------QGIKAWVAWRN-KCQNRD-LRSYVQGCR-
+#=GR sp|Q6B411|LYSM_BOVIN/19-147  PP 789**********************************.*******.**99******************...**...***********************************.......***********.******.********7.
+sp|P12069|LYSC3_PIG/19-148           KVYDRCEFARILKKSGMDGYRGVSLANWVCLAKWESN-FNTKATN-YNPGSQSTDYGIFQINSRYWCN---DG---KTPKAVNACHISCKVLLDDDLSQDIECAKRVVRDP-------QGIKAWVAWKA-HCQNKD-VSQYIRGCKL
+#=GR sp|P12069|LYSC3_PIG/19-148   PP 79***********************************.*******.**999*****************...**...***********************************.......***********.******.********96
+sp|P08905|LYZ2_MOUSE/19-147          KVYERCEFARTLKRNGMAGYYGVSLADWVCLAQHESN-YNTRATN-YNRGDQSTDYGIFQINSRYWCN---DG---KTPRAVNACGINCSALLQDDITAAIQCAKRVVRDP-------QGIRAWVAWRA-HCQNRD-LSQYIRNCG-
+#=GR sp|P08905|LYZ2_MOUSE/19-147  PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|P24533|LYSC_SYRRE/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCHISCSALLSSDITASVNCAKKIVSDR-------NGMNAWVAWRN-RCKGTD-VNAWIRGCRL
+#=GR sp|P24533|LYSC_SYRRE/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00698|LYSC_CHICK/19-147          KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESN-FNTQATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VQAWIRGCRL
+#=GR sp|P00698|LYSC_CHICK/19-147  PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P19849|LYSC_PAVCR/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDR-------NGMNAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|P19849|LYSC_PAVCR/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P12067|LYSC1_PIG/1-128            KVYDRCEFARILKKSGMDGYRGVSLANWVCLAKWESD-FNTKAIN-RN--VGSTDYGIFQINSRYWCN---DG---KTPKAVNACHISCKVLLDDDLSQDIECAKRVVRDP-------QGIKAWVAWRT-HCQNKD-VSQYIRGCKL
+#=GR sp|P12067|LYSC1_PIG/1-128    PP 79***********************************.*******.*9..7*****************...**...***********************************.......***********.******.********96
+sp|P80189|LYSCN_BOVIN/19-147         KVFERCELARSLKRFGMDNFRGISLANWMCLARWESN-YNTQATN-YNAGDQSTDYGIFQINSHWWCN---DG---KTPGAVNACHLPCGALLQDDITQAVACAKRVVSDP-------QGIRAWVAWRS-HCQNQD-LTSYIQGCG-
+#=GR sp|P80189|LYSCN_BOVIN/19-147 PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********6.
+sp|Q7LZP9|LYSC_LOPIM/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|Q7LZP9|LYSC_LOPIM/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q7LZQ0|LYSC_CATWA/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|Q7LZQ0|LYSC_CATWA/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P49663|LYSC_PHAVE/2-130           KVYGRCELAAAMKRMGLDNYRGYSLGNWVCAAKFESN-FNTGATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSKNLCHIPCSALLSSDITASVNCAKKIVSDG-------DGMNAWVAWRK-HCKGTD-VNVWIRGCRL
+#=GR sp|P49663|LYSC_PHAVE/2-130   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00702|LYSC_PHACO/19-147          KVYGRCELAAAMKRMGLDNYRGYSLGNWVCAAKFESN-FNTGATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSKNLCHIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRK-HCKGTD-VNVWIRGCRL
+#=GR sp|P00702|LYSC_PHACO/19-147  PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P24364|LYSC_LOPLE/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKYESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---KTPGSRNLCHIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VSVWTRGCRL
+#=GR sp|P24364|LYSC_LOPLE/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q659U1|LYSC_PHOVI/19-147          KIFERCDLARTLKRLGLAGFKGVSLANWMCLAKWESN-YNTKATN-YNPGSRSTDYGIFQINSRYWCN---DG---KTPRAVNACHIPCSDLLKDDITQAVACAKRVVSDP-------NGIRAWVAWRA-HCENQD-VSQYVRNCG-
+#=GR sp|Q659U1|LYSC_PHOVI/19-147  PP 79***********************************.*******.**999*****************...**...***********************************.......***********.******.********6.
+sp|Q659U5|LYSC_HALGR/19-147          KIFERCDLARTLKRLGLAGFKGVSLANWMCLAKWESN-YNTKATN-YNPGSRSTDYGIFQINSRYWCN---DG---KTPRAVNACHIPCSDLLKDDITQAVACAKRVVSDP-------NGIRAWVAWRA-HCENQD-VSQYVRNCG-
+#=GR sp|Q659U5|LYSC_HALGR/19-147  PP 79***********************************.*******.**999*****************...**...***********************************.......***********.******.********6.
+sp|P00701|LYSC_COTJA/19-147          KVYGRCELAAAMKRHGLDKYQGYSLGNWVCAAKFESN-FNTQATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDV-------HGMNAWVAWRN-RCKGTD-VNAWIRGCRL
+#=GR sp|P00701|LYSC_COTJA/19-147  PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P22910|LYSC_CHRAM/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCHIPCSALLSSDITASVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VNAWTRGCRL
+#=GR sp|P22910|LYSC_CHRAM/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00697|LYSC1_RAT/19-147           KIYERCQFARTLKRNGMSGYYGVSLADWVCLAQHESN-YNTQARN-YNPGDQSTDYGIFQINSRYWCN---DG---KTPRAKNACGIPCSALLQDDITQAIQCAKRVVRDP-------QGIRAWVAWQR-HCKNRD-LSGYIRNCG-
+#=GR sp|P00697|LYSC1_RAT/19-147   PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********6.
+sp|Q659U0|LYSC_LEPWE/19-147          KVFERCDLARTLKRLGLAGFKGVSLANWMCLAKWESD-YNTKATN-YNPGSRSTDYGIFQINSRYWCN---DG---KTPRAVNSCHIPCSDLLKDDITQAVACAKRVVSDP-------NGIRAWVAWRA-HCENQD-VSQYVRNCG-
+#=GR sp|Q659U0|LYSC_LEPWE/19-147  PP 79***********************************.*******.**999*****************...**...***********************************.......***********.******.********6.
+sp|P00700|LYSC_COLVI/1-129           KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESN-FNSQATN-RNT-DGSTDYGVLQINSRWWCN---DG---KTPGSRNLCNIPCSALLSSDITATVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VQAWIRGCRL
+#=GR sp|P00700|LYSC_COLVI/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q7LZI3|LYSC_TRASA/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSGG-------SGMNAWVAWRN-RCKGTD-VQAWIRGCRL
+#=GR sp|Q7LZI3|LYSC_TRASA/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q7LZT2|LYSC_TRATE/1-129           KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITASVNCAKKIVSGG-------NGMSAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|Q7LZT2|LYSC_TRATE/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q7LZQ2|LYSC_AIXSP/1-129           KVYERCELAAAMKRLGLDNYRGYSLGNWVCAAKYESN-FNTQATN-RNT-DGSTDYGILEINSRWWCN---DG---KTPGAKNVCGIPCSVLLRSDITEAVKCAKRIVSDG-------NGMNAWVAWRN-RCKGTD-VSRWIRGCRL
+#=GR sp|Q7LZQ2|LYSC_AIXSP/1-129   PP 89***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00699|LYSC_CALCC/1-129           KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESN-FNSQATN-RNT-DGSTDYGVLQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDITATVNCAKKIVSDG-------NGMNAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|P00699|LYSC_CALCC/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00705|LYSC1_ANAPL/19-147         KVYSRCELAAAMKRLGLDNYRGYSLGNWVCAANYESG-FNTQATN-RNT-DGSTDYGILQINSRWWCD---NG---KTPRSKNACGIPCSVLLRSDITEAVRCAKRIVSDG-------DGMNAWVAWRN-RCRGTD-VSKWIRGCRL
+#=GR sp|P00705|LYSC1_ANAPL/19-147 PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|Q7LZQ1|LYSC_PELSI/2-131           KIYEQCELAREFKRHGMDGYHGYSLGDWVCTAKHESN-FNTAATN-YNRGDQSTDYGILQINSRWWCN---DG---KTPKAKNACGIECSELLKADITAAVNCAKRIVRDP-------NGMGAWVAWTK-YCKGKD-VSQWIKGCKL
+#=GR sp|Q7LZQ1|LYSC_PELSI/2-131   PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********96
+sp|Q7LZQ3|LYSC_CRAFA/1-129           KIYTRCELAAAMKRYGLDNYQGYSLGNWVCAARYESN-YNTQATN-RNS-DGSTDYGILQINSRWWCN---DG---KTPGTRNLCHISCSALMGADIAPSVRCAKKIVSDG-------NGMNAWVAWRK-HCKGTD-VSKWIKDCKL
+#=GR sp|Q7LZQ3|LYSC_CRAFA/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********96
+sp|P00703|LYSC_MELGA/19-147          KVYGRCELAAAMKRLGLDNYRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSKNLCNIPCSALLSSDITASVNCAKKIASGG-------NGMNAWVAWRN-RCKGTD-VHAWIRGCRL
+#=GR sp|P00703|LYSC_MELGA/19-147  PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P12068|LYSC2_PIG/19-146           KVYDRCEFARILKKSGMDGYRGVSLANWVCLAKWESD-FNTKAIN-HN--VGSTDYGIFQINSRYWCN---DG---KTPKAVNACHISCKVLLDDDLSQDIECAKRVVRDP-------LGVKAWVAWRA-HCQNKD-VSQYIRGCKL
+#=GR sp|P12068|LYSC2_PIG/19-146   PP 79***********************************.*******.*9..7*****************...**...***********************************.......***********.******.********96
+sp|P37712|LYSC_CAMDR/1-130           KVWERCALARKLKELGMDGYRGVSLANWMCLTKWESD-YNTDATN-YNPSSESTDYGIFQINSRYWCN---NG---KTPHAVNGCGINCNVLLEDDITKAVQCAKRVVRDP-------QGVRAWVAWKN-HCEGHD-VEQYVEGCDL
+#=GR sp|P37712|LYSC_CAMDR/1-130   PP 789**********************************.*******.**989*****************...**...***********************************.......***********.******.********86
+sp|P00706|LYSC3_ANAPL/1-129          KVYERCELAAAMKRLGLDNYRGYSLGNWVCAANYESS-FNTQATN-RNT-DGSTDYGILEINSRWWCD---NG---KTPRAKNACGIPCSVLLRSDITEAVKCAKRIVSDG-------DGMNAWVAWRN-RCKGTD-VSRWIRGCRL
+#=GR sp|P00706|LYSC3_ANAPL/1-129  PP 89***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P00707|LYSC_ORTVE/1-129           KIYKRCELAAAMKRYGLDNYRGYSLGNWVCAARYESN-YNTQATN-RNS-NGSTDYGILQINSRWWCN---DG---RTPGTKNLCHISCSALMGADIAPSVRCAKRIVSDG-------DGMNAWVAWRK-HCKGTD-VSTWIKDCKL
+#=GR sp|P00707|LYSC_ORTVE/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********96
+sp|P85345|LYSC_AMYCA/1-130           KIYEQCEAAREMKRLGLDGYDGYSLGDWVCTAKHESN-FNTGATN-YNRGDQSTDYGIFQINSRWWCN---DG---KTPNAKNACGIECSELLKADITAAVICAKRVVRDP-------NGMGAWVAWTK-YCKGKD-VSQWIKGCKL
+#=GR sp|P85345|LYSC_AMYCA/1-130   PP 79***********************************.*******.**99******************...**...***********************************.......***********.******.********96
+sp|G3XDT7|LYSC_DRONO/19-146          KVFQRCELAAAMKKHGLSNYRGYSLGHWVCAAKYESN-FNTAAIN-RNR-DGSSDYGILQINSRWWCN---DG---RTSGAKNLCKISCSALLSSDITASVNCAKRVVSDK-------NGMNAWVAWRN-HCKGRD-VSQWIRGCR-
+#=GR sp|G3XDT7|LYSC_DRONO/19-146  PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********7.
+sp|P11941|LYSC2_ONCMY/16-143         KVYDRCELARALKASGMDGYAGNSLPNWVCLSKWESS-YNTQATN-RNT-DGSTDYGIFQINSRYWCD---DG---RTPGAKNVCGIRCSQLLTADLTVAIRCAKRVVLDP-------NGIGAWVAWRL-HCQNQD-LRSYVAGCG-
+#=GR sp|P11941|LYSC2_ONCMY/16-143 PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********6.
+sp|Q9DD65|LYSC_PAROL/16-143          RVYERCEWARLLRNQGMDGYRGISLANWVCLTEWESH-YNTRATN-HNT-DGSTDYGIFQINSRWWCN---DS---QTP-TSNACNIRCSELLTDDVIVAIKCAKRVVRDP-------NGIGAWVAWRQ-HCQGQD-LSSYLAGCGL
+#=GR sp|Q9DD65|LYSC_PAROL/16-143  PP 589**********************************.*******.***.******************...**...*99.56*****************************.......***********.******.********75
+sp|Q05820|LYSC2_RAT/19-147           KVFKHCELARILRSSALAGYRGVSLENWMCMAQHESN-FDTEAIN-YNSTDQSTDYGIFQINSRYWCN---DG---KTPRAVNACGIPCSALLQDDITQAIQCAKRVVRDP-------QGIRAWVAWQR-HCQNRD-LSGYIRNCG-
+#=GR sp|Q05820|LYSC2_RAT/19-147   PP 79***********************************.*******.9998******************...**...***********************************.......***********.******.********6.
+sp|P00704|LYSC_NUMME/1-129           KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESN-FNSQATN-RNT-DGSTDYGVLQINSRWWCN---DG---RTPGSRNLCNIPCSALQSSDITATANCAKKIVSDG-------NGMNAWVAWRK-HCKGTD-VRVWIKGCRL
+#=GR sp|P00704|LYSC_NUMME/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P81711|LYSC_SYRSO/1-129           KVYGRCELAAAMKRLGLDNFRGYSLGNWVCAAKFESN-FNTHATN-RNT-DGSTDYGILQINSRWWCN---DG---RTPGSRNLCNIPCSALLSSDTIASVNCAKKIVSDG-------NGMNAWVAWRK-RCKGTD-VNAWTRGCRL
+#=GR sp|P81711|LYSC_SYRSO/1-129   PP 79***********************************.*******.***.******************...**...***********************************.......***********.******.********86
+sp|P84492|LYSC_CHEMY/1-130           KTYERCELARAMKRLGLDGYWGYSLGHWVCAAKYESN-FNTGATN-YNPGDQSTDYGILQINSRWWCN---DG---KTPRTKNACKIQCRELLTADITASVNCAKRVVRDP-------NGMGAWVAWTK-NCKGRD-VSPWIRDCGL
+#=GR sp|P84492|LYSC_CHEMY/1-130   PP 79***********************************.*******.***9******************...**...***********************************.......***********.******.********75
+sp|P61944|LYSC_TAKRU/16-143          KVFQRCEWARVLKARGMDGYRGISLADWVCLSKWESQ-YNTNAIN-HNT-DGSTDYGIFQINSRWWCN---DD---RIP-TRNACNIKCSALQTDDVTVAINCAKRVVSDP-------QGIRAWVAWNR-HCQNRD-LSAYIAGCGL
+#=GR sp|P61944|LYSC_TAKRU/16-143  PP 79***********************************.*******.***.******************...**...998.78*****************************.......***********.******.********75
+sp|Q06285|LYSC1_BOVIN/19-147         KVFERCELARTLKKLGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPGSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCSELMENDIAKAVACAKQIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCTL
+#=GR sp|Q06285|LYSC1_BOVIN/19-147 PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********86
+sp|Q9PU28|LYSC_SCOMX/16-142          KVFERCEWARLLKRNGMSNYRGISLADWVCLSQWESS-YNTRATN-RNT-DGSTDYGIFQINSRWWCD---NG---QTP-TSNACGISCSALLTDDVGAAIICAKHVVRDP-------NGIGAWVAWKR-HCQGQD-LSSYVAGCG-
+#=GR sp|Q9PU28|LYSC_SCOMX/16-142  PP 79***********************************.*******.***.******************...**...*99.56*****************************.......***********.******.********6.
+sp|Q06284|LYSC3_BOVIN/19-147         KVFERCELARTLKKLGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPSSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCSELMENDIAKAVACAKHIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVQGCTL
+#=GR sp|Q06284|LYSC3_BOVIN/19-147 PP 79***********************************.*******.**989*****************...**...********************************8.6.......***********.******.********86
+sp|Q06283|LYSC2_BOVIN/19-147         KVFERCELARTLKKLGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPSSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCSELMENDIAKAVACAKHIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCTL
+#=GR sp|Q06283|LYSC2_BOVIN/19-147 PP 79***********************************.*******.**989*****************...**...********************************8.6.......***********.******.********86
+sp|P37713|LYSC1_CAPHI/1-129          KVFERCELARTLKKLGLDDYKGVSLANWLCLTKWESG-YNTKATN-YNPGSESTDYGIFQINSKFWCN---DG---KTPDAVDGCHVSCSELMENDIEKAVACAKHIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCTL
+#=GR sp|P37713|LYSC1_CAPHI/1-129  PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********86
+sp|P17607|LYSC1_SHEEP/19-147         KVFERCELARTLKELGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPGSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCSELMENNIAKAVACAKHIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCSL
+#=GR sp|P17607|LYSC1_SHEEP/19-147 PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********86
+sp|P12066|LYSC_AXIAX/1-129           KVFERCELARTLKELGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPGSESTDYGIFQINSKWWCD---DG---KTPNAVDGCHVACSELMENNIDKAVTCAKQIVR-E-------QGITAWVAWKS-HCRGHD-VSSYVEGCTL
+#=GR sp|P12066|LYSC_AXIAX/1-129   PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********86
+sp|P37714|LYSC2_CAPHI/1-129          KVFERCELARTLKELGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPGSESTDYGIFQINSKFWCN---DG---KTPNAVDGCHVSCSELMENNIAKAVACAKQIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCTL
+#=GR sp|P37714|LYSC2_CAPHI/1-129  PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********86
+sp|Q9TUN1|LYSC3_SHEEP/19-147         KVFERCELARTLKKLGLDDYKGVSLANWLCLSKWESG-YNTKATN-YNPGSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCSALMENDIEKAVACAKHIVS-E-------QGITAWVAWKS-HCRVHD-VSSYVEGCKL
+#=GR sp|Q9TUN1|LYSC3_SHEEP/19-147 PP 79***********************************.*******.**999*****************...**...********************************8.6.......***********.******.********96
+sp|P04421|LYSC_BOVIN/19-147          KVFERCELARTLKKLGLDGYKGVSLANWLCLTKWESS-YNTKATN-YNPSSESTDYGIFQINSKWWCN---DG---KTPNAVDGCHVSCRELMENDIAKAVACAKHIVS-E-------QGITAWVAWKS-HCRDHD-VSSYVEGCTL
+#=GR sp|P04421|LYSC_BOVIN/19-147  PP 79***********************************.*******.**989*****************...**...********************************8.6.......***********.******.********86
+sp|Q27996|LYSCT_BOVIN/19-146         KTFKRCELAKTLKNLGLAGYKGVSLANWMCLAKGESN-YNTQAKN-YNPGSKSTDYGIFQINSKWWCN---DG---KTPKAVNGCGVSCSALLKDDITQAVACAKKIVS-Q-------QGITAWVAWKN-KCRNRD-LTSYVKGCG-
+#=GR sp|Q27996|LYSCT_BOVIN/19-146 PP 79***********************************.*******.**999*****************...**...********************************8.7.......***********.******.********6.
+sp|P85045|LYS_BUFGA/18-146           -KYERCELAKALKKGGLADFKGYSLENWICTAFHESG-YNTASTN-YNPPDKSTDYGIFQINSRWWCN---DY---KTPRSKNTCNIDCKVLLGDDISPAIKCAKRVVSDP-------NGMGAWVAWKK-YCKGKN-LSQWTQGCKL
+#=GR sp|P85045|LYS_BUFGA/18-146   PP .69**********************************.*******.**99******************...**...***********************************.......***********.******.********96
+sp|Q6B410|LYSI_BOVIN/19-147          KKFEKCELARTLRRYGLDGYKGVSLANWMCLTYGESR-YNTRVTN-YNPGSKSTDYGIFQINSKWWCN---DG---KTPKAVNGCGVSCSAMLKDDITQAVACAKTIVS-R-------QGITAWVAWKN-KCRNRD-VSSYIRGCKL
+#=GR sp|Q6B410|LYSI_BOVIN/19-147  PP 789**********************************.*******.**999*****************...**...********************************8.7.......***********.******.********96
+sp|P81708|LYSC1_CANLF/1-129          KIFSKCELARKLKSMGMDGFHGYSLANWVCMAEYESN-FNTQAFNGRNS-NGSSDYGIFQLNSKWWCK---SN---SH-SSANACNIMCSKFLDDNIDDDIACAKRVVKDP-------NGMSAWVAWVK-HCKGKD-LSKYLASCNL
+#=GR sp|P81708|LYSC1_CANLF/1-129  PP 79***********************************.*******8999.******************...*9...76.689*****************************.......***********.******.********86
+sp|P51782|LYSC_TRIVU/19-147          KRMERCEFARRIKQLHLDGYHQISLANWVCLAQWESG-FDTKATN-YNPGDQSTDYGILQINSHYWCD---DG---KTPHAANECKVRCSELQEDDLVKAVNCAKKIV-DQ-------QGIRAWVAWRN-KCEGKD-LSKYLEGCHL
+#=GR sp|P51782|LYSC_TRIVU/19-147  PP 679**********************************.*******.***9******************...**...********************************.68.......***********.******.********86
+sp|P11375|LYSC_EQUAS/1-129           KVFSKCELAHKLKAQEMDGFGGYSLANWVCMAEYESN-FNTRAFNGKNA-NGSYDYGLFQLNSKWWCK---DN---KR-SSSNACNIMCSKLLDDNIDDDISCAKRVVRDP-------KGMSAWKAWVK-HCKDKD-LSEYLASCNL
+#=GR sp|P11375|LYSC_EQUAS/1-129   PP 79***********************************.*******8899.******************...**...86.689*****************************.......***********.******.********86
+sp|P11376|LYSC1_HORSE/1-129          KVFSKCELAHKLKAQEMDGFGGYSLANWVCMAEYESN-FNTRAFNGKNA-NGSSDYGLFQLNNKWWCK---DN---KR-SSSNACNIMCSKLLDENIDDDISCAKRVVRDP-------KGMSAWKAWVK-HCKDKD-LSEYLASCNL
+#=GR sp|P11376|LYSC1_HORSE/1-129  PP 79***********************************.*******8899.******************...**...86.689*****************************.......***********.******.********86
+sp|P00708|LYSC_COLLI/2-127           -DIPRCELVKILRRHGFEGFVGKTVANWVCLVKHESG-YRTTAFN-NNG-PNSRDYGIFQINSKYWCN---DG---KTRGSKNACNINCSKLRDDNIADDIQCAKKIAREA-------RGLTPWVAWKK-YCQGKD-LSSYVRGC--
+#=GR sp|P00708|LYSC_COLLI/2-127   PP .578*********************************.*******.***.******************...**...***********************************.......***********.******.*******9..
+sp|Q91159|LYSC_OPIHO/22-145          --IPRCELVKILREHGFEGFEGTTIADWICLVQHESD-YNTEAYN-NN--GPSRDYGIFQINSKYWCN---DG---KTSGAVDGCHISCSELMTNDLEDDIKCAKKIARDA-------HGLTPWYGWKN-HCEGRD-LSSYVKGC--
+#=GR sp|Q91159|LYSC_OPIHO/22-145  PP ..67*********************************.*******.98..79****************...**...***********************************.......***********.******.*******9..
+sp|P37156|LYSC1_TACAC/1-123          KILKKQELCKNLVAQGMNGYQHITLPNWVCTAFHESS-YNTRATN-HNT-DGSTDYGILQINSRYWCH---DG---KTPGSKNACNISCSKLLDDDITDDLKCAKKIAGEA-------KGLTPWVAWKS-KCRGHD-LSKF------
+#=GR sp|P37156|LYSC1_TACAC/1-123  PP 7899*********************************.*******.***.******************...**...***********************************.......***********.******.**98......
+sp|A0JNM6|LYZL1_BOVIN/20-146         KVYTRCKLAKIFSRASLDNYRGFSLGNWICMAYYESH-YNTTAQT-QLE-DGSTDYGIFQINSDTWCR---ST---KL-QEKNRCHVACSALMTDDLTDAIICAKKIVKET-------DGMNYWQGWKK-NCEGRD-LSEWKKGCE-
+#=GR sp|A0JNM6|LYZL1_BOVIN/20-146 PP 79***********************************.*******.***.******************...**...87.589*****************************.......***********.******.********8.
+sp|A6QQ77|SACA3_BOVIN/36-163         RVYSRCELARVLQDFGLEGYRGYSLADWICLAYFASG-FNTGAVD-HEA-DGSTNSGIFQINSRKWCK---NL---N-PNVPNLCQMYCSDLLNPNLKDTVICAMKITQEP-------QGLGSWEAWRH-HCQGKD-LSDWVDGCEL
+#=GR sp|A6QQ77|SACA3_BOVIN/36-163 PP 589**********************************.*******.***.******************...*9...5.889******************************.......***********.******.********86
+sp|B6VH75|SACA3_CANLF/36-163         RVYSRCELAKVLQDFGMEGYRGYTLADWVCLAYFTSG-FNTAAVD-HEA-DGSTNNGIFQINSRKWCK---NL---NTE-VPNVCQMYCSDLLNPNLKDTVICAMKITQQP-------QGLASWEAWRR-HCQGKD-LTDWVDGCDL
+#=GR sp|B6VH75|SACA3_CANLF/36-163 PP 589**********************************.*******.***.******************...**...985.89*****************************.......***********.******.********86
+sp|Q6UWQ5|LYZL1_HUMAN/20-146         KIYTRCKLAKIFSRAGLDNYWGFSLGNWICMAYYESG-YNTTAQT-VLD-DGSIDYGIFQINSFAWCR---RG---KLK-ENNHCHVACSALITDDLTDAIICARKIVKET-------QGMNYWQGWKK-HCEGRD-LSEWKKGCE-
+#=GR sp|Q6UWQ5|LYZL1_HUMAN/20-146 PP 79***********************************.*******.***.******************...**...975.88*****************************.......***********.******.********8.
+sp|Q9CPX3|LYZL1_MOUSE/20-146         KIYTRCKLAKIFAKAGLDNYGGFALGNWLCMAYYESH-YNTTAEN-VLE-DGSTDYGIFQINSFTWCR---NA---RK-HQKNHCHVACSALITDDLTDAILCAKKIVKET-------QGMNYWQGWKK-NCENKD-MSEWKRGCE-
+#=GR sp|Q9CPX3|LYZL1_MOUSE/20-146 PP 79***********************************.*******.***.******************...*9...76.689*****************************.......***********.******.********8.
+sp|B6VH76|SACA3_PANTR/88-214         KLYGRCELARVLHDFGLDGYRGYSLADWVCLAYFTSG-FNAAALD-YEA-DGSTNNGIFQINSRRWCS---NL----TPNVPNVCQMYCSDLLNPNLKDTVICAMKITQEP-------QGLGYWEAWRH-HCQGKD-LTEWVDGCD-
+#=GR sp|B6VH76|SACA3_PANTR/88-214 PP 6899*********************************.*******.***.******************...99....799*******************************.......***********.******.********7.
+sp|Q96QH8|LYZL5_HUMAN/22-148         KIYERCELAARLERAGLNGYKGYGVGDWLCMAHYESG-FDTAFVD-HNP-DGSSEYGIFQLNSAWWCD---NG---ITP-TKNLCHMDCHDLLNRHILDDIRCAKQIVSSQ-------NGLSAWTSWRL-HCSGHD-LSEWLKGCD-
+#=GR sp|Q96QH8|LYZL5_HUMAN/22-148 PP 79***********************************.*******.***.******************...**...998.78*****************************.......***********.******.********8.
+sp|Q7Z4W2|LYZL2_HUMAN/20-146         KIYTRCKLAKIFSRAGLDNYWGFSLGNWICMAYYESG-YNTTAQT-VLD-DGSIDYGIFQINSFAWCR---RG---KLK-ENNHCHVACSALVTDDLTDAIICAKKIVKET-------QGMNYWQGWKK-HCEGRD-LSDWKKDCE-
+#=GR sp|Q7Z4W2|LYZL2_HUMAN/20-146 PP 79***********************************.*******.***.******************...**...975.88*****************************.......***********.******.********8.
+sp|A2AE20|LYZL5_MOUSE/22-148         KIYERCELAKKLEEAGLDGFKGYTVGDWLCVAHYESG-FDTSFVD-HNP-DGSSEYGIFQLNSAWWCN---NG---ITP-TQNLCNIDCNDLLNRHILDDIICAKRVASSH-------KSMKAWDSWTQ-HCAGHD-LSEWLKGCS-
+#=GR sp|A2AE20|LYZL5_MOUSE/22-148 PP 79***********************************.*******.***.******************...**...998.78*****************************.......***********.******.********7.
+sp|Q32PD6|LYZL5_BOVIN/19-145         KIYERCDLAKKLEAAGLNGFKGYTIGDWLCMAHYESG-FDTSFVN-HNP-DGSSEYGIFQLNSAWWCY---NG---VTP-SENLCHMDCHELLNRHILDDIMCAKKVVSSE-------SGMSAWDSWNQ-HCYGYD-LSEWLRGCH-
+#=GR sp|Q32PD6|LYZL5_BOVIN/19-145 PP 79***********************************.*******.***.******************...**...998.88*****************************.......***********.******.********8.
+sp|Q8IXA5|SACA3_HUMAN/88-214         KLYGRCELARVLHDFGLDGYRGYSLADWVCLAYFTSG-FNAAALD-YEA-DGSTNNGIFQINSRRWCS---NL----TPNVPNVCRMYCSDLLNPNLKDTVICAMKITQEP-------QGLGYWEAWRH-HCQGKD-LTEWVDGCD-
+#=GR sp|Q8IXA5|SACA3_HUMAN/88-214 PP 6899*********************************.*******.***.******************...99....799*******************************.......***********.******.********7.
+sp|Q9D9X8|SACA3_MOUSE/94-220         KVFSRCELAKEMHDFGLDGYRGYNLADWVCLAYYTSG-FNTNAVD-HEA-DGSTNNGIFQISSRRWCR---TL---AS-NGPNLCRIYCTDLLNNDLKDSIVCAMKIVQEP-------LGLGYWEAWRH-HCQGRD-LSDWVDGCD-
+#=GR sp|Q9D9X8|SACA3_MOUSE/94-220 PP 79***********************************.*******.***.******************...*9...76.588*****************************.......***********.******.********7.
+sp|Q9DA11|LYZL6_MOUSE/21-147         -IIHRCSLAKILYEEDLDGFEGYSLPDWLCLAFVESN-FNISKVN-ENV-DGSFDYGIFQINSRYWCN---DY---QS-HSENFCHVDCQELLSPNLISTIHCAKKIVSGP-------GGMKNWVEWKL-HCLGRP-LSYWMTGCHL
+#=GR sp|Q9DA11|LYZL6_MOUSE/21-147 PP .579*********************************.*******.***.******************...**...86.699*****************************.......***********.******.********86
+sp|Q29RT1|LYZL6_BOVIN/22-147         --IGRCDLAKVLHQEDLDGFEGYSLTDWLCLAFVESD-FNITKVN-ENT-DGSFDYGIFQINSHYWCN---DY---QSR-TENNCQVDCQELLSPNLLAIINCAKKIVSGA-------GGMKNWVKWRL-HCAGRP-LSYWMTGCHL
+#=GR sp|Q29RT1|LYZL6_BOVIN/22-147 PP ..68*********************************.*******.***.******************...**...875.88*****************************.......***********.******.********86
+sp|O75951|LYZL6_HUMAN/22-147         --ISRCDLAQVLQLEDLDGFEGYSLSDWLCLAFVESK-FNISKIN-ENA-DGSFDYGLFQINSHYWCN---DY---KS-YSENLCHVDCQDLLNPNLLAGIHCAKRIVSGA-------RGMNNWVEWRL-HCSGRP-LFYWLTGCRL
+#=GR sp|O75951|LYZL6_HUMAN/22-147 PP ..68*********************************.*******.***.******************...**...86.699*****************************.......***********.******.********86
+sp|P08334|LALB1_HORSE/1-120          KQFTKCELSQVLK--SMDGYKGVTLPEWICTIFHSSG-YDTQTIV-KN--NGKTEYGLFQINNKMWCR---DN---QILPSRNICGISCDKFLDDDLTDDVMCAKKIL-DS-------EGIDYWLAHKP-LCSE-K-LEQWL--C--
+#=GR sp|P08334|LALB1_HORSE/1-120  PP 78***********..89********************.*******.*9..9*****************...**...********************************.68.......***********.****.9.****8..4..
+sp|P28546|LALBA_EQUAS/1-120          KQFTKCELSQVLK--SMDGYKGVTLPEWICTIFHSSG-YDTQTIV-KN--NGKTEYGLFQINNKMWCR---DN---QILPSRNICGISCNKFLDDDLTDDVMCAKKIL-DS-------EGIDYWLAHKP-LCSE-K-LEQWL--C--
+#=GR sp|P28546|LALBA_EQUAS/1-120  PP 78***********..89********************.*******.*9..9*****************...**...********************************.68.......***********.****.9.****8..4..
+sp|P30805|LALBA_ORNAN/2-125          -IFQICELSRVLKENGLGGFHGVSLEEWLCVIFHESG-YDSQALN-YY--NGSSSHGLFQINQPYWCD---DXDSESTEPSVNACQIPCSKLLDDDILDDIECAKKIVKEP-------KGITAWEAWQP-FCNS-D-LDQWK-----
+#=GR sp|P30805|LALBA_ORNAN/2-125  PP .7999********************************.*******.97..9****************9...86222567789*****************************.......***********.***9.*.****4.....
+sp|P00712|LALBA_CAPHI/21-139         -QLTKCEVFQKLK--DLKDYGGVSLPEWVCTAFHTSG-YDTQAIV-QN--NDSTEYGLFQINNKIWCK---DD---QNPHSRNICNISCDKFLDDDLTDDIVCAKKIL-DK-------VGINYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|P00712|LALBA_CAPHI/21-139 PP .589*********..99********************.*******.*9..89****************...**...********************************.68.......***********.****.9.****8..4..
+sp|Q9TSN6|LALBA_BUBBU/21-139         -QLTKCEVFRELK--DLKDYGGVSLPEWVCTAFHTSG-YDTQAIV-QN--NDSTEYGLFQINNKIWCK---DD---QNPHSSNICNISCDKFLDDDLTDDIMCVKKIL-DK-------VGINYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|Q9TSN6|LALBA_BUBBU/21-139 PP .589*********..99********************.*******.*9..89****************...**...********************************.68.......***********.****.9.****8..4..
+sp|P00711|LALBA_BOVIN/21-139         -QLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSG-YDTQAIV-QN--NDSTEYGLFQINNKIWCK---DD---QNPHSSNICNISCDKFLDDDLTDDIMCVKKIL-DK-------VGINYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|P00711|LALBA_BOVIN/21-139 PP .589*********..99********************.*******.*9..89****************...**...********************************.68.......***********.****.9.****8..4..
+sp|P09462|LALBA_SHEEP/21-139         -QLTKCEVFQELK--DLKDYGGVSLPEWVCTAFHTSG-YDTQAIV-QN--NDSTEYGLFQINNKIWCK---DD---QNPHSRNICNISCDKFLDDDLTDDIMCVKKIL-DK-------VGINYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|P09462|LALBA_SHEEP/21-139 PP .589*********..99********************.*******.*9..89****************...**...********************************.68.......***********.****.9.****8..4..
+sp|P81646|LALBA_TACAC/1-125          KVFEKCELSQMLKANGLDGFQGITLEEWICIAFHESG-FDSRALN-YY--NGSSSHGLFQINRQYWCDGQDAK---STEPSVNACQISCDKLRDDDIEDDIKCVKKILKES-------QGITAWEAWQP-FCIA-D-LDQWK-----
+#=GR sp|P81646|LALBA_TACAC/1-125  PP 79***********************************.*******.97..9****************833234...677899*****************************.......***********.***9.*.****4.....
+sp|P00709|LALBA_HUMAN/20-139         KQFTKCELSQLLK--DIDGYGGIALPELICTMFHTSG-YDTQAIV-EN--NESTEYGLFQISNKLWCK---SS---QVPQSRNICDISCDKFLDDDITDDIMCAKKIL-DI-------KGIDYWLAHKA-LCTE-K-LEQWL--C--
+#=GR sp|P00709|LALBA_HUMAN/20-139 PP 78***********..99********************.*******.*9..99****************...**...********************************.69.......***********.****.9.****8..4..
+sp|Q9TSR4|LALBA_BOSMU/21-139         -QLTKCEVFRELK--DLKGYGGVSLPEWVCTTFHTSG-YDTQAIV-QN--NDSTEYGLFQINNKIWCK---DD---QNPHSSDICNISCDKFLDDDLTDDIMCVKKIL-DK-------VGINYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|Q9TSR4|LALBA_BOSMU/21-139 PP .589*********..99********************.*******.*9..89****************...**...********************************.68.......***********.****.9.****8..4..
+sp|Q9N2G9|LALBA_CANLF/20-139         KQFTKCELPQVLK--DMDGFGGIALPEWICTIFHTSG-YDTQTIV-NN--NGGTDYGLFQISNKFWCK---DD---QNLQSRNICDISCDKFLDDDLTDDMICAKKIL-DK-------EGIDYWLAHKP-LCSE-K-LEQWR--C--
+#=GR sp|Q9N2G9|LALBA_CANLF/20-139 PP 78***********..9*********************.******9.88..9*****************...**...********************************.68.......***********.****.8.****4..5..
+sp|P18137|LALBA_PIG/20-138           KQFTKCELSQVLK--DMDGYGDITLPEWICTIFHISG-YDTKTIV-HD--NGSTEYGLFQINNKLWCR---DN---QI-QSKNICGISCDKFLDDDLTDDMMCAKKIL-DN-------EGIDYWLAHKA-LCSE-K-LDQWL--C--
+#=GR sp|P18137|LALBA_PIG/20-138   PP 78***********..9*********************.*******.98..9*****************...**...87.599**************************.58.......***********.****.9.****8..4..
+sp|D4ABW7|LYZL4_RAT/21-145           -ILGRCVVAKKLYDGGLNYFEGYSLENWVCLAYFESK-FNPSAVY-ENSRDGSTGFGLFQIRDNEWCD---HG--------KNLCSVSCTALLNPNLKDTIECAKKIVKGK-------QGMGAWPVWSR-NCQLSDILDRWLDGCEL
+#=GR sp|D4ABW7|LYZL4_RAT/21-145   PP .578*********************************.*******.9998******************...99........489***************************.......***********.****99569******86
+sp|P12065|LALBA_PAPCY/1-120          KQFTKCELSQNLY--DIDGYGRIALPELICTMFHTSG-YDTQAIV-EN--NESTEYGLFQISNALWCK---SS---QSPQSRNICDITCDKFLDDDITDDIMCAKKIL-DI-------KGIDYWIAHKA-LCTE-K-LEQWL--C--
+#=GR sp|P12065|LALBA_PAPCY/1-120  PP 78**********9..99********************.*******.*9..99****************...**...********************************.69.......***********.****.9.****8..4..
+sp|P08896|LALB2_HORSE/1-120          KQFTKCQLSQVLK--SMDGYKGVTLPEWICTIFHNSG-YDTQTIV-KN--NGKTEYGLFEINNKMWCR---DN---QILPSRNICGISCNKFLDDDLTDDVMCAKKDL-DS-------EGIDYWLAHKP-LCSE-K-LEQWL--C--
+#=GR sp|P08896|LALB2_HORSE/1-120  PP 78***********..89********************.*******.*9..9*****************...**...********************************.68.......***********.****.9.****8..4..
+sp|Q17005|LYSC1_ANOGA/21-135         KTFGKCELAKALANNGIAK---ASLPDWVCLVQNESA-FSTSATN-KNK-NGSTDYGIFQINNKYWCD---SG---YG---SNDCKIACKNLLNDDITDDIKCAKLIHK-R-------HGFNAWYGWKN-HCNGKK-LPN-------
+#=GR sp|Q17005|LYSC1_ANOGA/21-135 PP 789************9999...9**************.*******.***.******************...**...74...69*************************8.7.......***********.****99.975.......
+sp|Q9D925|LYZL4_MOUSE/21-145         -ILGRCTVAKMLYDGGLNYFEGYSLENWVCLAYFESK-FNPSAVY-EDPQDGSTGFGLFQIRDNEWCG---HG--------KNLCSVSCTALLNPNLKDTIQCAKKIVKGK-------HGMGAWPIWSK-NCQLSDVLDRWLDGCDL
+#=GR sp|Q9D925|LYZL4_MOUSE/21-145 PP .578*********************************.*******.8877******************...99........489***************************.......***********.****99569******86
+sp|P00710|LALBA_CAMDR/1-120          KQFTKCKLSDELK--DMNGHGGITLAEWICIIFHMSG-YDTETVV-SN--NGNREYGLFQINNKIWCR---DN---ENLQSRNICDISCDKFLDDDLTDDKMCAKKIL-DK-------EGIDYWLAHKP-LCSE-K-LEQW--QC--
+#=GR sp|P00710|LALBA_CAMDR/1-120  PP 78***********..999*******************.*******.99..9*****************...**...********************************.68.......***********.****.9.****..46..
+sp|Q2T9N7|LYZL4_BOVIN/21-145         -VLGRCVVAKKLHEGGLSDFEGYSLENWVCLAYFESK-FNPMAVY-ENSRSDFIGYGLFQIRNHDWCD---HG--------RNRCHMSCSALLNPDLKKTIECAKTIVKGK-------RGMGAWPSWTL-NCQHSDTLARWLDGCKL
+#=GR sp|Q2T9N7|LYZL4_BOVIN/21-145 PP .578*********************************.*******.99878899**************...99........589***************************.......***********.***99879*******96
+sp|Q96KX0|LYZL4_HUMAN/22-146         --LGRCTVAKKLHDGGLDYFEGYSLENWVCLAYFESK-FNPMAIY-ENTREGYTGFGLFQMRGSDWCG---DH-------GRNRCHMSCSALLNPNLEKTIKCAKTIVKGK-------EGMGAWPTWSR-YCQYSDTLARWLDGCKL
+#=GR sp|Q96KX0|LYZL4_HUMAN/22-146 PP ..78*********************************.*******.99989*****************...99.......479****************************.......***********.***98869*******96
+sp|P29752|LALBA_MOUSE/23-140         --LTKCKVSHAIK--DIDGYQGISLLEWACVLFHTSG-YDTQAVV-ND--NGSTEYGLFQISDRFWCK---SS---EFPESENICGISCDKLLDDELDDDIACAKKILA-I-------KGIDYWKAYKP-MCSE-K-LEQWR--C--
+#=GR sp|P29752|LALBA_MOUSE/23-140 PP ..79*********..99********************.*****99.76..9*****************...**...********************************7.8.......***********.****.8.****4..5..
+sp|P00714|LALBA_RAT/22-139           --FTKCEVSHAIE--DMDGYQGISLLEWTCVLFHTSG-YDSQAIV-KN--NGSTEYGLFQISNRNWCK---SS---EFPESENICDISCDKFLDDELADDIVCAKKIVA-I-------KGIDYWKAHKP-MCSE-K-LEQWR--C--
+#=GR sp|P00714|LALBA_RAT/22-139   PP ..89********9..9*********************.*******.*9..9*****************...**...********************************7.8.......***********.****.8.****4..5..
+sp|P00716|LALBA_RABIT/21-139         -QLTRCELTEKLK--ELDGYRDISMSEWICTLFHTSG-LDTKITV-NN--NGSTEYGIFQISDKLWCV---SK---QNPQSKNICDTPCENFLDDNLTDDVKCAMKIL-DK-------EGIDHWLAHKP-LCSE-N-LEQWV--C--
+#=GR sp|P00716|LALBA_RABIT/21-139 PP .589*********..89********************.*****99.88..9*****************...**...********************************.68.......***********.****.9.****8..5..
+sp|P00713|LALBA_CAVPO/20-139         KQLTKCALSHELN--DLAGYRDITLPEWLCIIFHISG-YDTQAIV-KN--SDHKEYGLFQINDKDFCE---SS---TTVQSRNICDISCDKLLDDDLTDDIMCVKKIL-DI-------KGIDYWLAHKP-LCSD-K-LEQWY--C--
+#=GR sp|P00713|LALBA_CAVPO/20-139 PP 789*********9..9*********************.*******.*9..5789**************...**...********************************.69.......***********.****.8.****7..4..
+sp|P48816|LYS_BOMMO/19-129           KTFTRCGLVHELRKHGFEE---NLMRNWVCLVEHESS-RDTSKTN-TNR-NGSKDYGLFQINDRYWCS---KG---ASPG--KDCNVKCSDLLTDDITKAAKCAKKIYK-R-------HRFDAWYGWKN-HCQG-------------
+#=GR sp|P48816|LYS_BOMMO/19-129   PP 79***********998777...99*************.*******.***.******************...**...9985..69************************8.6.......9**********.***8.............
+sp|Q7YT16|LYS1_MUSDO/20-132          KTFTRCSLAREMYALGVPK---SELPQWTCIAEHESS-YRTNVVGPTNS-NGSNDYGIFQINNYYWCQ---PS---NGRFSYNECHLSCDALLTDNISNSVTCARKIKS-Q-------QGWTAWSTWK--YCSG-------------
+#=GR sp|Q7YT16|LYS1_MUSDO/20-132  PP 79***************99...9**************.******97888.******************...**...*******************************97.7.......*********9..9998.............
+sp|P82174|LYS_GALME/1-117            KTFTRCELVQALRRQGFDE---AKLRDWVCLVENESR-GRTDIVGKPNK-NGSRDYGLFQINDKYWCS---NT---SK--AGKDCNITCSQLLTDDITVASKCAKKVYK-R-------HNFMAWYGWRN-HCQNKP-LPD-------
+#=GR sp|P82174|LYS_GALME/1-117    PP 79*************9999...9**************.*****985788.******************...99...75..678*************************8.6.......99*********.****98.865.......
+sp|C1IIX1|LYSC_PENME/19-147          KVLGKCEFARLLETR--YNLSRNDIKNWVCIAEFESS-FNTAATN-RNR-NRSTDYGIFQINNKYWCG---SD---Y---GKNVCGIPCSDLMSDDITAALRCAETVRRATERYRGRGKGYTAWVAYNS-KCKKRD-LDQYMAEC--
+#=GR sp|C1IIX1|LYSC_PENME/19-147  PP 7899********954..566789**************.*******.***.******************...99...6...57*************************9876566666689*********.******.*******9..
+sp|P29615|LYSP_DROME/21-132          -TMDRCSLAREMSKLGVPR---DQLAKWTCIAQHESS-FRTGVVGPANS-NGSNDYGIFQINNKYWCK---PA---DGRFSYNECGLSCNALLTDDITNSVKCARKIQR-Q-------QGWTAWSTWK--YCSG-------------
+#=GR sp|P29615|LYSP_DROME/21-132  PP .789*************99...9**************.******97888.******************...**...*******************************97.7.......*********9..9988.............
+sp|D9J143|LYS1B_LUCSE/21-134         KTFTRCSLARAMYALGVPK---SELARWTCIAKYESH-YRTHVVGPANT-DGSHDYGIFQINDRYWCK---PS---NGRSSHNGCNVYCDDLLEDDISESVYCAQHVKS-K-------QGWSAWTTWA--KCNG-N-----------
+#=GR sp|D9J143|LYS1B_LUCSE/21-134 PP 79***************99...9**************.******97889.******************...**...*******************************97.7.......*********9..8988.4...........
+sp|P37159|LYSE_DROME/20-131          -TLDRCSLAREMSNLGVPR---DQLARWACIAEHESS-YRTGVVGPENY-NGSNDYGIFQINNYYWCA---PP---SGRFSYNECGLSCNALLTDDITHSVRCAQKVLS-Q-------QGWSAWSTWH--YCSG-------------
+#=GR sp|P37159|LYSE_DROME/20-131  PP .689*************99...9**************.******96777.******************...**...********************************8.7.......*********9..8987.............
+sp|P83972|LYSD_DROME/20-131          -TMDRCSLAREMSNLGVPR---DQLARWACIAEHESS-YRTGVVGPENY-NGSNDYGIFQINDYYWCA---PP---SGRFSYNECGLSCNALLTDDITHSVRCAQKVLS-Q-------QGWSAWSTWH--YCSG-------------
+#=GR sp|P83972|LYSD_DROME/20-131  PP .789*************99...9**************.******96777.******************...**...********************************8.7.......*********9..8987.............
+sp|Q08694|LYSB_DROME/20-131          -TMDRCSLAREMSNLGVPR---DQLARWACIAEHESS-YRTGVVGPENY-NGSNDYGIFQINDYYWCA---PP---SGRFSYNECGLSCNALLTDDITHSVRCAQKVLS-Q-------QGWSAWSTWH--YCSG-------------
+#=GR sp|Q08694|LYSB_DROME/20-131  PP .789*************99...9**************.******96777.******************...**...********************************8.7.......*********9..8987.............
+sp|D9J142|LYS1A_LUCSE/20-132         KTFTRCSLAKEVYALGVPK---SELPQWTCIAEHGSS-YRTNVVGPTNS-NGSNDYGIFQINNYYWCQ---PA---NGRFSYNECKLSCNDLLTDNISNSVKCARKIKS-Q-------QGWTAWSTWK--YCSG-------------
+#=GR sp|D9J142|LYS1A_LUCSE/20-132 PP 79***************99...9**************.******97888.******************...**...*******************************97.7.......*********9..9998.............
+sp|C0HLB7|LYS2_LUCSE/21-133          KVYTRCSLAREMHTLGVPK---NQLARWTCIAEHESA-YNTKAVGSMNS-NGSRDYGIFQINNYYWCS---PP---SGAFSYNECKIKCADFLVDSIEPAVKCAQLVLR-Q-------QGWSAWSTWK--YCDH-------------
+#=GR sp|C0HLB7|LYS2_LUCSE/21-133  PP 79***************99...9**************.******96788.******************...**...********************************7.7.......*********9..8987.............
+sp|P37161|LYSX_DROME/21-132          -TMDRCSLAREMANMGVSR---DQLSKWACIAEHESS-YRTGVVGPPNT-DGSNDYGIFQINDMYWCQ---PS---SGKFSHNGCDVSCNALLTDDIKSSVRCALKVLG-Q-------QGWSAWSTWH--YCSG-------------
+#=GR sp|P37161|LYSX_DROME/21-132  PP .789***********9998...9**************.******97899.******************...**...********************************6.8.......*********9..8986.............
+sp|Q29145|LALBA_TRIVU/20-138         KDYGKCELNQILRERGVDK--VISLPELICTMFHSSG-FSTETEV-DN--NNHKEYGIFQISSNGWCA---EK---QEDVERSVCGILCSKLLDDDITDDIVCAKKILQLP-------ERLDHWKAHNT-FCRE-N-LDQW------
+#=GR sp|Q29145|LALBA_TRIVU/20-138 PP 6799***************..5***************.****999.98..889***************...**...***********************************.......***********.****.9.****......
+sp|P50717|LYS_HYPCU/25-137           ---TRCDLVRELRKQGFPE---NQMGDWVCLVENESG-RKTDKVGPVNK-NGSKDYGLFQINDKYWCS---NT---RTPG--KDCNVTCADLLLDDITKASTCAKKIFK-R-------HNFRAWYGWRN-HCDGKT-LP--------
+#=GR sp|P50717|LYS_HYPCU/25-137   PP ...7*********999888...9**************.*****997899.******************...**...*995..69************************8.6.......9**********.****98.85........
+sp|P05105|LYS_HYACE/20-131           KRFTRCGLVQELRRLGFDE---TLMSNWVCLVENESGRFTDKIGK-VNK-NGSRDYGLFQINDKYWCS---KG---TTPG--KDCNVTCNQLLTDDISVAATCAKKIYK-R-------HKFDAWYGWKN-HCQH-------------
+#=GR sp|P05105|LYS_HYACE/20-131   PP 789************9999...89************935555556.899.******************...**...*995..69************************8.6.......9**********.**98.............
+sp|P07458|LALBA_NOTRU/3-119          --YRKCQASQILKEHGMDK--VIPLPELVCTMFHISG-LSTQAEV-NN--HSNKEYGIFQISNDGWCA---EK---QEDVANSVCGILCSKFLDDDITDDIECAKKILQLP-------EGLGYWKAHET-FCLE-D-LDQW------
+#=GR sp|P07458|LALBA_NOTRU/3-119  PP ..79***************..5***************.*****99.88..7899**************...**...***********************************.......***********.****.*.****......
+sp|Q06655|LALBA_NOTEU/22-138         --YRKCQASQILKEHGMDK--VIPLPELVCTMFHISG-LSTQAEV-NN--HSNKEYGIFQISNNGWCA---EK---QEDVANSVCGILCSKFLDDDITDDIECAKKILQLP-------EGLGYWKAHET-FCIE-D-LDQW------
+#=GR sp|Q06655|LALBA_NOTEU/22-138 PP ..89***************..5***************.*****99.88..7899**************...**...***********************************.......***********.****.*.****......
+sp|Q7SID7|LYS_ANTMY/1-113            KRFTRCGLVNELRKQGFDE---NLMRDWVCLVENESARYTDKIAN-VNK-NGSRDYGLFQINDKYWCS---KG---STPG--KDCNVTCSQLLTDDITVASTCAKKIYK-R-------TKFDAWSGWDN-HCNHS------------
+#=GR sp|Q7SID7|LYS_ANTMY/1-113    PP 789***********99998...89***********9758888889.9**.******************...**...*995..59************************8.6.......99*********.**986............
+sp|P37160|LYSS_DROME/21-131          -TLDRCSLAREMADLGVPR---DQLDKWTCIAQHESD-YRTWVVGPANS-DGSNDYGIFQINDLYWCQ---AD---G-RFSYNECGLSCNALLTDDITNSVRCAQKVLS-Q-------QGWSAWAVWH--YCSG-------------
+#=GR sp|P37160|LYSS_DROME/21-131  PP .689************999...9**************.******97888.******************...98...5.689***************************8.7.......*********9..8987.............
+sp|P50718|LYS_TRINI/25-134           ---TNCELVHELRRQGFPE---DKMRDWVCLIQNESG-RNTSKMGTINK-NGSRDYGLFQINDKYWCS---KT---STPG--KDCNVTCAEMLLDDITKASKCAKKIYK-R-------HKFQAWYGWRN-HCQGT------------
+#=GR sp|P50718|LYS_TRINI/25-134   PP ...78********999888...9**************.****9985788.******************...**...*995..69************************8.6.......9**********.***94............
+sp|B6VH77|SACA3_PONPY/88-167         KVYGRCELARVLHDFGLDGYRGYSLADWVCLAYFTSG-FNTAAVD-HEA-DGSTNNGIFQINSRRWCR---NL----TPNVPNVCQMYCS---------------------------------------------------------
+#=GR sp|B6VH77|SACA3_PONPY/88-167 PP 79***********************************.*******.***.******************...99....799*********7.........................................................
+sp|B6VH79|SACA3_PAPHA/87-166         KVYSRCELARVLQDFGLDGYRGYSLADWVCLAYFTSG-FNAAALD-YEA-DGSTNNGIFQINSRRWCS---NL----TPNVPNVCRMYCS---------------------------------------------------------
+#=GR sp|B6VH79|SACA3_PAPHA/87-166 PP 79***********************************.*******.***.******************...99....799*********7.........................................................
+sp|Q54F36|Y1137_DICDI/28-122         ----------QMQSLAEGYFRGPTLTTMLCISYYEST-YNTQAIN-PT----SKAAGLFQILPE-HCG---EL---CK-----TCTT-PSDLLNPTIN--TECAKSILN-S-------QGFKAWTTYASGDCKN-------------
+#=GR sp|Q54F36|Y1137_DICDI/28-122 PP ..........5666667899*****************.******9.86....99********98.9*9...99...64.....6987.899******8..89******7.7.......*********9767887.............
+sp|P21776|LYSC_PSEPE/3-47            --MKKCEFAKIAKEQHMDGYHGVSLADWVCLVNNESD-FNTKAIN-RNK--------------------------------------------------------------------------------------------------
+#=GR sp|P21776|LYSC_PSEPE/3-47    PP ..89*********************************.*******.996..................................................................................................
+sp|Q07568|IPGF_SHIFL/37-68           -----------------------------AIAEKESG-FNKSAVN-VNN-NGSKDYGIMQINDF-----------------------------------------------------------------------------------
+#=GR sp|Q07568|IPGF_SHIFL/37-68   PP .............................5899****.*******.***.************85...................................................................................
+sp|Q55287|IPGF_SHISO/37-68           -----------------------------AIAEKESG-FNKFAVN-VNN-NGSKDYGIMQINDF-----------------------------------------------------------------------------------
+#=GR sp|Q55287|IPGF_SHISO/37-68   PP .............................5899****.*******.***.************85...................................................................................
+sp|P81710|LYSC2_HORSE/1-32           KVFERXELARTLKRLGLDGFRGVSLPNXVXLA-------------------------------------------------------------------------------------------------------------------
+#=GR sp|P81710|LYSC2_HORSE/1-32   PP 89*************************99876...................................................................................................................
+sp|P19122|LALBA_MACGI/3-40           --YRKCQASQILKEHGMDK--VIPLPELVCTMFHISG-LSPQA--------------------------------------------------------------------------------------------------------
+#=GR sp|P19122|LALBA_MACGI/3-40   PP ..89***************..5***************.99887........................................................................................................
+#=GC PP_cons                         789**********************************.*******.*99.******************...**...*9*9****************************999.......***********.******.*******976
+#=GC RF                              xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx.xxx.xxxxxxxxxxxxxxxxxx...xx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.......xxxxxxxxxxx.xxxxxx.xxxxxxxxxx
+//

@@ -1,0 +1,10 @@
+name: enzywizard-conservation
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - hmmer=3.4
+  - numpy=1.23.5
+  - biopython=1.86
+prefix: /home/wmk/miniconda3/envs/enzywizard-conservation
