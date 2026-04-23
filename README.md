@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1219036934.svg)](https://doi.org/10.5281/zenodo.19709432)
 
 # EnzyWizard-Conservation
 
