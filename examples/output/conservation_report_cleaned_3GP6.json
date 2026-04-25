@@ -4,1031 +4,1087 @@
     {
       "aa_id": 1,
       "aa_name": "M",
-      "hmm_emission_log_score": 2.95591,
-      "emission_probability": 0.052031283621317405,
-      "conservation_score": 2.8308620634653856
+      "hmm_emission_log_score": 3.10107,
+      "emission_probability": 0.04500095216571423,
+      "conservation_score": 0.04919545433389754
     },
     {
       "aa_id": 2,
       "aa_name": "N",
-      "hmm_emission_log_score": 2.58281,
-      "emission_probability": 0.07556147345968225,
-      "conservation_score": 2.882223760996815
+      "hmm_emission_log_score": 2.05509,
+      "emission_probability": 0.1280812837100421,
+      "conservation_score": 0.057015315563489835
     },
     {
       "aa_id": 3,
       "aa_name": "A",
-      "hmm_emission_log_score": 2.29939,
-      "emission_probability": 0.10031985935186008,
-      "conservation_score": 2.817675468155293
+      "hmm_emission_log_score": 2.15515,
+      "emission_probability": 0.11588575958943573,
+      "conservation_score": 0.06623406830044822
     },
     {
       "aa_id": 4,
       "aa_name": "D",
-      "hmm_emission_log_score": 2.44624,
-      "emission_probability": 0.08661863073916372,
-      "conservation_score": 2.767734860035214
+      "hmm_emission_log_score": 1.99789,
+      "emission_probability": 0.13562104354508212,
+      "conservation_score": 0.09233863958583113
     },
     {
       "aa_id": 5,
-      "aa_name": "W",
-      "hmm_emission_log_score": 2.46378,
-      "emission_probability": 0.08511262396902917,
-      "conservation_score": 2.809653568519531
+      "aa_name": "E",
+      "hmm_emission_log_score": 2.13779,
+      "emission_probability": 0.11791523518852949,
+      "conservation_score": 0.07605959708169556
     },
     {
       "aa_id": 6,
-      "aa_name": "M",
-      "hmm_emission_log_score": 2.76346,
-      "emission_probability": 0.06307320091676946,
-      "conservation_score": 2.7889792596953282
+      "aa_name": "W",
+      "hmm_emission_log_score": 2.7047,
+      "emission_probability": 0.06689038535841989,
+      "conservation_score": 0.0468065662656512
     },
     {
       "aa_id": 7,
-      "aa_name": "T",
-      "hmm_emission_log_score": 2.62397,
-      "emission_probability": 0.07251438010981896,
-      "conservation_score": 2.751118925867737
+      "aa_name": "M",
+      "hmm_emission_log_score": 2.787,
+      "emission_probability": 0.06160563014963886,
+      "conservation_score": 0.06934978649594357
     },
     {
       "aa_id": 8,
       "aa_name": "T",
-      "hmm_emission_log_score": 2.38484,
-      "emission_probability": 0.09210373207720457,
-      "conservation_score": 2.81306025126111
+      "hmm_emission_log_score": 2.64028,
+      "emission_probability": 0.07134132513448471,
+      "conservation_score": 0.08219230166277657
     },
     {
       "aa_id": 9,
-      "aa_name": "F",
-      "hmm_emission_log_score": 2.45006,
-      "emission_probability": 0.08628851985793898,
-      "conservation_score": 2.7521075051060726
+      "aa_name": "T",
+      "hmm_emission_log_score": 2.39718,
+      "emission_probability": 0.09097402998427896,
+      "conservation_score": 0.06121995521252349
     },
     {
       "aa_id": 10,
-      "aa_name": "R",
-      "hmm_emission_log_score": 2.78795,
-      "emission_probability": 0.06154733981935267,
-      "conservation_score": 2.8974824141731044
+      "aa_name": "F",
+      "hmm_emission_log_score": 2.47948,
+      "emission_probability": 0.08378670560289929,
+      "conservation_score": 0.07865562561281782
     },
     {
       "aa_id": 11,
-      "aa_name": "E",
-      "hmm_emission_log_score": 2.05477,
-      "emission_probability": 0.12812232031546492,
-      "conservation_score": 2.7339964597037665
+      "aa_name": "R",
+      "hmm_emission_log_score": 2.80705,
+      "emission_probability": 0.06038285326504712,
+      "conservation_score": 0.032691326477639046
     },
     {
       "aa_id": 12,
-      "aa_name": "N",
-      "hmm_emission_log_score": 1.91298,
-      "emission_probability": 0.14763976979354518,
-      "conservation_score": 2.7132521084369046
+      "aa_name": "E",
+      "hmm_emission_log_score": 2.06346,
+      "emission_probability": 0.12701382529044006,
+      "conservation_score": 0.08723855939092359
     },
     {
       "aa_id": 13,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.46076,
-      "emission_probability": 0.23206017901949183,
-      "conservation_score": 2.2472177010082874
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.9175,
+      "emission_probability": 0.1469738052927957,
+      "conservation_score": 0.09451931083836962
     },
     {
       "aa_id": 14,
-      "aa_name": "A",
-      "hmm_emission_log_score": 2.18178,
-      "emission_probability": 0.1128403919461835,
-      "conservation_score": 2.7902192926213663
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.46301,
+      "emission_probability": 0.23153865982388855,
+      "conservation_score": 0.2507214285046975
     },
     {
       "aa_id": 15,
-      "aa_name": "Q",
-      "hmm_emission_log_score": 1.99693,
-      "emission_probability": 0.13575141162636634,
-      "conservation_score": 2.7454118319368725
+      "aa_name": "A",
+      "hmm_emission_log_score": 2.19037,
+      "emission_probability": 0.11187520449113617,
+      "conservation_score": 0.06881468546412435
     },
     {
       "aa_id": 16,
-      "aa_name": "T",
-      "hmm_emission_log_score": 1.64119,
-      "emission_probability": 0.193749370679916,
-      "conservation_score": 2.7118093157166885
+      "aa_name": "Q",
+      "hmm_emission_log_score": 2.00096,
+      "emission_probability": 0.13520553732576585,
+      "conservation_score": 0.08352846108590745
     },
     {
       "aa_id": 17,
-      "aa_name": "W",
-      "hmm_emission_log_score": 0.92169,
-      "emission_probability": 0.3978463309270066,
-      "conservation_score": 2.370226528337297
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.64104,
+      "emission_probability": 0.1937783902829673,
+      "conservation_score": 0.09512006945003318
     },
     {
       "aa_id": 18,
-      "aa_name": "Q",
-      "hmm_emission_log_score": 2.4172,
-      "emission_probability": 0.08917097106467281,
-      "conservation_score": 2.7508615557491027
+      "aa_name": "W",
+      "hmm_emission_log_score": 0.91534,
+      "emission_probability": 0.4003799790695265,
+      "conservation_score": 0.2108386205828563
     },
     {
       "aa_id": 19,
       "aa_name": "Q",
-      "hmm_emission_log_score": 2.30509,
-      "emission_probability": 0.09974979419380378,
-      "conservation_score": 2.71916782485949
+      "hmm_emission_log_score": 2.43102,
+      "emission_probability": 0.0879470768666968,
+      "conservation_score": 0.08188109814322181
     },
     {
       "aa_id": 20,
-      "aa_name": "P",
-      "hmm_emission_log_score": 2.06281,
-      "emission_probability": 0.12709634574306666,
-      "conservation_score": 2.8358036229292
+      "aa_name": "Q",
+      "hmm_emission_log_score": 2.31586,
+      "emission_probability": 0.09868120642590486,
+      "conservation_score": 0.09250767460581465
     },
     {
       "aa_id": 21,
-      "aa_name": "E",
-      "hmm_emission_log_score": 1.92645,
-      "emission_probability": 0.14566436444429484,
-      "conservation_score": 2.6940224890830713
+      "aa_name": "P",
+      "hmm_emission_log_score": 2.07032,
+      "emission_probability": 0.126145507878197,
+      "conservation_score": 0.05338016001042405
     },
     {
       "aa_id": 22,
-      "aa_name": "H",
-      "hmm_emission_log_score": 2.28972,
-      "emission_probability": 0.10129493379439046,
-      "conservation_score": 2.8139578227458397
+      "aa_name": "E",
+      "hmm_emission_log_score": 1.93862,
+      "emission_probability": 0.14390218623857712,
+      "conservation_score": 0.10050079120793297
     },
     {
       "aa_id": 23,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 2.89768,
-      "emission_probability": 0.0551510971391404,
-      "conservation_score": 2.8665819704189652
+      "aa_name": "H",
+      "hmm_emission_log_score": 2.29316,
+      "emission_probability": 0.10094691200311397,
+      "conservation_score": 0.06070682168910432
     },
     {
       "aa_id": 24,
-      "aa_name": "D",
-      "hmm_emission_log_score": 1.18977,
-      "emission_probability": 0.30429081291707166,
-      "conservation_score": 2.3957277747312067
+      "aa_name": "Y",
+      "hmm_emission_log_score": 2.9149,
+      "emission_probability": 0.05420946436969261,
+      "conservation_score": 0.043592997360059366
     },
     {
       "aa_id": 25,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.23692,
-      "emission_probability": 0.29027711734919653,
-      "conservation_score": 2.5302017453370804
+      "aa_name": "D",
+      "hmm_emission_log_score": 1.18648,
+      "emission_probability": 0.3052936514262293,
+      "conservation_score": 0.20140635885785396
     },
     {
       "aa_id": 26,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 0.76755,
-      "emission_probability": 0.46414888753045874,
-      "conservation_score": 2.1710482101053508
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.23352,
+      "emission_probability": 0.29126557230530337,
+      "conservation_score": 0.1565072809174541
     },
     {
       "aa_id": 27,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.58089,
-      "emission_probability": 0.2057915871772022,
-      "conservation_score": 2.312109962451145
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.7609,
+      "emission_probability": 0.46724610039466014,
+      "conservation_score": 0.27819427579473693
     },
     {
       "aa_id": 28,
-      "aa_name": "P",
-      "hmm_emission_log_score": 1.56015,
-      "emission_probability": 0.2101049181963677,
-      "conservation_score": 2.6520141364577574
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.58978,
+      "emission_probability": 0.20397020861536283,
+      "conservation_score": 0.22839327579109667
     },
     {
       "aa_id": 29,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.92063,
-      "emission_probability": 0.14651475298759745,
-      "conservation_score": 2.8032040165870153
+      "aa_name": "P",
+      "hmm_emission_log_score": 1.56085,
+      "emission_probability": 0.2099573864404268,
+      "conservation_score": 0.11516267821887308
     },
     {
       "aa_id": 30,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.95656,
-      "emission_probability": 0.14134379830721375,
-      "conservation_score": 2.799614070435527
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.9285,
+      "emission_probability": 0.14536612840711233,
+      "conservation_score": 0.06403881676184475
     },
     {
       "aa_id": 31,
-      "aa_name": "T",
-      "hmm_emission_log_score": 1.58555,
-      "emission_probability": 0.20483490364675597,
-      "conservation_score": 2.672508456071679
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.95779,
+      "emission_probability": 0.14117011236858115,
+      "conservation_score": 0.06550622257946542
     },
     {
       "aa_id": 32,
-      "aa_name": "W",
-      "hmm_emission_log_score": 1.18317,
-      "emission_probability": 0.30630594778960496,
-      "conservation_score": 2.5326583277710015
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.58486,
+      "emission_probability": 0.20497662455190016,
+      "conservation_score": 0.1084744159427025
     },
     {
       "aa_id": 33,
-      "aa_name": "H",
-      "hmm_emission_log_score": 0.88662,
-      "emission_probability": 0.41204564748805633,
-      "conservation_score": 2.3500124278163086
+      "aa_name": "W",
+      "hmm_emission_log_score": 1.18183,
+      "emission_probability": 0.3067173490797115,
+      "conservation_score": 0.15502646424269442
     },
     {
       "aa_id": 34,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.9896,
-      "emission_probability": 0.1367501625497987,
-      "conservation_score": 2.720626846629761
+      "aa_name": "H",
+      "hmm_emission_log_score": 0.87789,
+      "emission_probability": 0.415658925347725,
+      "conservation_score": 0.21854694382347842
     },
     {
       "aa_id": 35,
       "aa_name": "A",
-      "hmm_emission_log_score": 2.76821,
-      "emission_probability": 0.06277429714699082,
-      "conservation_score": 2.4393124695385437
+      "hmm_emission_log_score": 2.00471,
+      "emission_probability": 0.1346995040475662,
+      "conservation_score": 0.0919531362988606
     },
     {
       "aa_id": 36,
-      "aa_name": "E",
-      "hmm_emission_log_score": 0.84744,
-      "emission_probability": 0.428511291251708,
-      "conservation_score": 2.244449796657564
+      "aa_name": "R",
+      "hmm_emission_log_score": 0.78386,
+      "emission_probability": 0.45664004394482993,
+      "conservation_score": 0.2745277125814576
     },
     {
       "aa_id": 37,
-      "aa_name": "R",
-      "hmm_emission_log_score": 2.0686,
-      "emission_probability": 0.12636256178092264,
-      "conservation_score": 2.826952993569749
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.65514,
+      "emission_probability": 0.19106551931364915,
+      "conservation_score": 0.10180670022275494
     },
     {
       "aa_id": 38,
-      "aa_name": "P",
-      "hmm_emission_log_score": 1.62178,
-      "emission_probability": 0.1975466765754842,
-      "conservation_score": 2.6477036941100076
+      "aa_name": "A",
+      "hmm_emission_log_score": 2.0983,
+      "emission_probability": 0.12266480073936388,
+      "conservation_score": 0.07325502644266747
     },
     {
       "aa_id": 39,
-      "aa_name": "W",
-      "hmm_emission_log_score": 0.6518,
-      "emission_probability": 0.5211071266129786,
-      "conservation_score": 2.0296164685649134
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.7609,
+      "emission_probability": 0.46724610039466014,
+      "conservation_score": 0.27819427579473693
     },
     {
       "aa_id": 40,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.28712,
+      "emission_probability": 0.2760646376722584,
+      "conservation_score": 0.1421858138281611
     },
     {
       "aa_id": 41,
-      "aa_name": "G",
-      "hmm_emission_log_score": 2.40909,
-      "emission_probability": 0.08989707069139112,
-      "conservation_score": 2.818612879046529
+      "aa_name": "E",
+      "hmm_emission_log_score": 0.84114,
+      "emission_probability": 0.4312189039398158,
+      "conservation_score": 0.25307722514260156
     },
     {
       "aa_id": 42,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "R",
+      "hmm_emission_log_score": 2.07856,
+      "emission_probability": 0.1251103401965361,
+      "conservation_score": 0.05585787509088703
     },
     {
       "aa_id": 43,
-      "aa_name": "F",
-      "hmm_emission_log_score": 2.44206,
-      "emission_probability": 0.086981671125761,
-      "conservation_score": 2.7861823726880286
+      "aa_name": "P",
+      "hmm_emission_log_score": 1.6262,
+      "emission_probability": 0.1966757053042801,
+      "conservation_score": 0.11663158739213689
     },
     {
       "aa_id": 44,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "W",
+      "hmm_emission_log_score": 0.64423,
+      "emission_probability": 0.5250660784864006,
+      "conservation_score": 0.3263712167462858
     },
     {
       "aa_id": 45,
-      "aa_name": "L",
-      "hmm_emission_log_score": 2.6484,
-      "emission_probability": 0.07076430138604395,
-      "conservation_score": 2.806937615778748
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 46,
-      "aa_name": "S",
-      "hmm_emission_log_score": 1.55228,
-      "emission_probability": 0.21176443169310952,
-      "conservation_score": 2.7457462834387196
+      "aa_name": "G",
+      "hmm_emission_log_score": 2.41813,
+      "emission_probability": 0.08908806774593442,
+      "conservation_score": 0.059139409993120305
     },
     {
       "aa_id": 47,
-      "aa_name": "R",
-      "hmm_emission_log_score": 1.86776,
-      "emission_probability": 0.1544689795523829,
-      "conservation_score": 2.8060188054285238
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 48,
-      "aa_name": "W",
-      "hmm_emission_log_score": 2.3388,
-      "emission_probability": 0.09644341301803913,
-      "conservation_score": 2.4120668049026732
+      "aa_name": "F",
+      "hmm_emission_log_score": 2.45774,
+      "emission_probability": 0.08562833983916016,
+      "conservation_score": 0.07045959774481406
     },
     {
       "aa_id": 49,
-      "aa_name": "D",
-      "hmm_emission_log_score": 1.09296,
-      "emission_probability": 0.3352223267066838,
-      "conservation_score": 2.383228580605486
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 50,
-      "aa_name": "E",
-      "hmm_emission_log_score": 1.69532,
-      "emission_probability": 0.18354059786920018,
-      "conservation_score": 2.695184690394898
+      "aa_name": "L",
+      "hmm_emission_log_score": 2.68089,
+      "emission_probability": 0.06850226970205804,
+      "conservation_score": 0.06408387311310997
     },
     {
       "aa_id": 51,
-      "aa_name": "K",
-      "hmm_emission_log_score": 1.76114,
-      "emission_probability": 0.17184908526505546,
-      "conservation_score": 2.642846860398634
+      "aa_name": "S",
+      "hmm_emission_log_score": 1.55087,
+      "emission_probability": 0.21206352985084376,
+      "conservation_score": 0.08363052757437783
     },
     {
       "aa_id": 52,
-      "aa_name": "G",
-      "hmm_emission_log_score": 1.19036,
-      "emission_probability": 0.3041118330904422,
-      "conservation_score": 2.504401521821904
+      "aa_name": "R",
+      "hmm_emission_log_score": 1.87196,
+      "emission_probability": 0.1538218668737251,
+      "conservation_score": 0.06305417331307386
     },
     {
       "aa_id": 53,
-      "aa_name": "N",
-      "hmm_emission_log_score": 1.45806,
-      "emission_probability": 0.23268699395809023,
-      "conservation_score": 2.5129146410028143
+      "aa_name": "W",
+      "hmm_emission_log_score": 2.36041,
+      "emission_probability": 0.09438132705632428,
+      "conservation_score": 0.19713814130992022
     },
     {
       "aa_id": 54,
-      "aa_name": "W",
-      "hmm_emission_log_score": 0.6518,
-      "emission_probability": 0.5211071266129786,
-      "conservation_score": 2.0296164685649134
+      "aa_name": "D",
+      "hmm_emission_log_score": 1.08986,
+      "emission_probability": 0.336262991737837,
+      "conservation_score": 0.20548988132941884
     },
     {
       "aa_id": 55,
-      "aa_name": "H",
-      "hmm_emission_log_score": 1.92828,
-      "emission_probability": 0.1453982973282863,
-      "conservation_score": 2.741087003382508
+      "aa_name": "E",
+      "hmm_emission_log_score": 1.69658,
+      "emission_probability": 0.1833090876145489,
+      "conservation_score": 0.10042968095462808
     },
     {
       "aa_id": 56,
-      "aa_name": "G",
-      "hmm_emission_log_score": 1.34062,
-      "emission_probability": 0.2616834175757748,
-      "conservation_score": 2.506246689896619
+      "aa_name": "K",
+      "hmm_emission_log_score": 1.76656,
+      "emission_probability": 0.17091994293556723,
+      "conservation_score": 0.11796098321629667
     },
     {
       "aa_id": 57,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.03957,
-      "emission_probability": 0.35360705312266955,
-      "conservation_score": 2.1814641015532703
+      "aa_name": "G",
+      "hmm_emission_log_score": 1.18653,
+      "emission_probability": 0.3052789045518491,
+      "conservation_score": 0.1649892585997275
     },
     {
       "aa_id": 58,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 0.88905,
-      "emission_probability": 0.41104632541748853,
-      "conservation_score": 2.238946352241279
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.45764,
+      "emission_probability": 0.23278462761520857,
+      "conservation_score": 0.1622811283073959
     },
     {
       "aa_id": 59,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.86022,
-      "emission_probability": 0.15563862810815743,
-      "conservation_score": 2.6417322401138486
+      "aa_name": "W",
+      "hmm_emission_log_score": 0.64423,
+      "emission_probability": 0.5250660784864006,
+      "conservation_score": 0.3263712167462858
     },
     {
       "aa_id": 60,
-      "aa_name": "M",
-      "hmm_emission_log_score": 1.5429,
-      "emission_probability": 0.21375994960792044,
-      "conservation_score": 2.3998417996064836
+      "aa_name": "H",
+      "hmm_emission_log_score": 1.92629,
+      "emission_probability": 0.14568765139662818,
+      "conservation_score": 0.08546916933389297
     },
     {
       "aa_id": 61,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.34876,
-      "emission_probability": 0.2595618867395138,
-      "conservation_score": 2.6320221171135776
+      "aa_name": "G",
+      "hmm_emission_log_score": 1.3356,
+      "emission_probability": 0.26300045057443056,
+      "conservation_score": 0.16460420148217753
     },
     {
       "aa_id": 62,
-      "aa_name": "F",
-      "hmm_emission_log_score": 0.81401,
-      "emission_probability": 0.4430781949828179,
-      "conservation_score": 2.1714303240838415
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.03648,
+      "emission_probability": 0.3547006235576447,
+      "conservation_score": 0.27304861277185444
     },
     {
       "aa_id": 63,
-      "aa_name": "K",
-      "hmm_emission_log_score": 1.86113,
-      "emission_probability": 0.15549687342597665,
-      "conservation_score": 2.7929689605082237
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.88239,
+      "emission_probability": 0.4137930007906344,
+      "conservation_score": 0.2551390767837476
     },
     {
       "aa_id": 64,
-      "aa_name": "D",
-      "hmm_emission_log_score": 0.74195,
-      "emission_probability": 0.47618399457661426,
-      "conservation_score": 2.102711001885684
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.85998,
+      "emission_probability": 0.15567576360832555,
+      "conservation_score": 0.1188958858528577
     },
     {
       "aa_id": 65,
-      "aa_name": "S",
-      "hmm_emission_log_score": 0.90407,
-      "emission_probability": 0.40491830120497996,
-      "conservation_score": 2.3190131932112554
+      "aa_name": "M",
+      "hmm_emission_log_score": 1.53857,
+      "emission_probability": 0.2146880682566125,
+      "conservation_score": 0.19993306995368917
     },
     {
       "aa_id": 66,
-      "aa_name": "W",
-      "hmm_emission_log_score": 2.93756,
-      "emission_probability": 0.05299485471162696,
-      "conservation_score": 2.6841325053166316
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.34926,
+      "emission_probability": 0.25943253918360876,
+      "conservation_score": 0.1214950304786362
     },
     {
       "aa_id": 67,
-      "aa_name": "N",
-      "hmm_emission_log_score": 1.80428,
-      "emission_probability": 0.16459296709705928,
-      "conservation_score": 2.709116208960334
+      "aa_name": "F",
+      "hmm_emission_log_score": 0.80728,
+      "emission_probability": 0.44606986457822106,
+      "conservation_score": 0.2777092611005244
     },
     {
       "aa_id": 68,
       "aa_name": "K",
-      "hmm_emission_log_score": 1.76179,
-      "emission_probability": 0.17173710378756504,
-      "conservation_score": 2.7054363780573905
+      "hmm_emission_log_score": 1.87209,
+      "emission_probability": 0.1538021121959258,
+      "conservation_score": 0.06729577615331385
     },
     {
       "aa_id": 69,
-      "aa_name": "W",
-      "hmm_emission_log_score": 2.34862,
-      "emission_probability": 0.09550070918604033,
-      "conservation_score": 2.695805155831861
+      "aa_name": "D",
+      "hmm_emission_log_score": 0.73585,
+      "emission_probability": 0.47909703115591484,
+      "conservation_score": 0.3007239614719335
     },
     {
       "aa_id": 70,
-      "aa_name": "E",
-      "hmm_emission_log_score": 1.25135,
-      "emission_probability": 0.2861183736675148,
-      "conservation_score": 2.518935785612207
+      "aa_name": "S",
+      "hmm_emission_log_score": 0.89752,
+      "emission_probability": 0.40757902802161644,
+      "conservation_score": 0.22808553174589768
     },
     {
       "aa_id": 71,
-      "aa_name": "P",
-      "hmm_emission_log_score": 1.06264,
-      "emission_probability": 0.34554241547412584,
-      "conservation_score": 2.482146030804863
+      "aa_name": "W",
+      "hmm_emission_log_score": 2.98182,
+      "emission_probability": 0.05070044888985765,
+      "conservation_score": 0.10530475192688388
     },
     {
       "aa_id": 72,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.4494,
-      "emission_probability": 0.23471110805558207,
-      "conservation_score": 2.5371970307262943
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.81237,
+      "emission_probability": 0.1632666378508072,
+      "conservation_score": 0.09551898913325121
     },
     {
       "aa_id": 73,
-      "aa_name": "A",
-      "hmm_emission_log_score": 2.14075,
-      "emission_probability": 0.11756660019085968,
-      "conservation_score": 2.8255587465539977
+      "aa_name": "K",
+      "hmm_emission_log_score": 1.76988,
+      "emission_probability": 0.17035361594732445,
+      "conservation_score": 0.09653226091404801
     },
     {
       "aa_id": 74,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "W",
+      "hmm_emission_log_score": 2.36126,
+      "emission_probability": 0.09430134041122629,
+      "conservation_score": 0.10130692719010281
     },
     {
       "aa_id": 75,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 0.76755,
-      "emission_probability": 0.46414888753045874,
-      "conservation_score": 2.1710482101053508
+      "aa_name": "E",
+      "hmm_emission_log_score": 1.24864,
+      "emission_probability": 0.28689485827966105,
+      "conservation_score": 0.15981929323727198
     },
     {
       "aa_id": 76,
-      "aa_name": "G",
-      "hmm_emission_log_score": 1.24027,
-      "emission_probability": 0.28930547719435445,
-      "conservation_score": 2.4530703428787635
+      "aa_name": "P",
+      "hmm_emission_log_score": 1.05238,
+      "emission_probability": 0.3491059652259799,
+      "conservation_score": 0.17405091872878942
     },
     {
       "aa_id": 77,
-      "aa_name": "W",
-      "hmm_emission_log_score": 1.87725,
-      "emission_probability": 0.15301030417222627,
-      "conservation_score": 2.3945384826640637
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.45452,
+      "emission_probability": 0.233512292556451,
+      "conservation_score": 0.15196568654743678
     },
     {
       "aa_id": 78,
-      "aa_name": "E",
-      "hmm_emission_log_score": 1.74422,
-      "emission_probability": 0.17478128992298905,
-      "conservation_score": 2.7154935195537058
+      "aa_name": "A",
+      "hmm_emission_log_score": 2.14706,
+      "emission_probability": 0.11682700326604478,
+      "conservation_score": 0.057018389983425406
     },
     {
       "aa_id": 79,
-      "aa_name": "S",
-      "hmm_emission_log_score": 2.4457,
-      "emission_probability": 0.0866653810309341,
-      "conservation_score": 2.65308390051492
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 80,
-      "aa_name": "T",
-      "hmm_emission_log_score": 2.1374,
-      "emission_probability": 0.11796120758419423,
-      "conservation_score": 2.8429157055653764
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.7609,
+      "emission_probability": 0.46724610039466014,
+      "conservation_score": 0.27819427579473693
     },
     {
       "aa_id": 81,
-      "aa_name": "W",
-      "hmm_emission_log_score": 1.91594,
-      "emission_probability": 0.14720343350856274,
-      "conservation_score": 2.836035845341478
+      "aa_name": "G",
+      "hmm_emission_log_score": 1.23927,
+      "emission_probability": 0.28959541736677347,
+      "conservation_score": 0.18228663119586186
     },
     {
       "aa_id": 82,
-      "aa_name": "R",
-      "hmm_emission_log_score": 2.08738,
-      "emission_probability": 0.12401164651779784,
-      "conservation_score": 2.8313129837108213
+      "aa_name": "W",
+      "hmm_emission_log_score": 1.88868,
+      "emission_probability": 0.15127148733326418,
+      "conservation_score": 0.2026077558690053
     },
     {
       "aa_id": 83,
-      "aa_name": "P",
-      "hmm_emission_log_score": 2.06698,
-      "emission_probability": 0.12656742521916908,
-      "conservation_score": 2.817243332589131
+      "aa_name": "E",
+      "hmm_emission_log_score": 1.75199,
+      "emission_probability": 0.17342829998071504,
+      "conservation_score": 0.09331406014789873
     },
     {
       "aa_id": 84,
-      "aa_name": "L",
-      "hmm_emission_log_score": 2.04174,
-      "emission_probability": 0.12980259295878438,
-      "conservation_score": 2.832779568679824
+      "aa_name": "S",
+      "hmm_emission_log_score": 2.46767,
+      "emission_probability": 0.08478208086333476,
+      "conservation_score": 0.11595231056146038
     },
     {
       "aa_id": 85,
-      "aa_name": "A",
-      "hmm_emission_log_score": 2.2825,
-      "emission_probability": 0.10202877181683492,
-      "conservation_score": 2.805028109551983
+      "aa_name": "T",
+      "hmm_emission_log_score": 2.14213,
+      "emission_probability": 0.1174044663728211,
+      "conservation_score": 0.051053973755373655
     },
     {
       "aa_id": 86,
-      "aa_name": "D",
-      "hmm_emission_log_score": 2.13788,
-      "emission_probability": 0.11790463814362423,
-      "conservation_score": 2.7651884402006273
+      "aa_name": "W",
+      "hmm_emission_log_score": 1.91995,
+      "emission_probability": 0.14661411353214063,
+      "conservation_score": 0.0533801234598094
     },
     {
       "aa_id": 87,
-      "aa_name": "E",
-      "hmm_emission_log_score": 1.99437,
-      "emission_probability": 0.1360991861571281,
-      "conservation_score": 2.7200406383929336
+      "aa_name": "R",
+      "hmm_emission_log_score": 2.09356,
+      "emission_probability": 0.12324763320943591,
+      "conservation_score": 0.054576215116043485
     },
     {
       "aa_id": 88,
-      "aa_name": "N",
-      "hmm_emission_log_score": 2.20163,
-      "emission_probability": 0.11062269886607447,
-      "conservation_score": 2.6239721121658657
+      "aa_name": "P",
+      "hmm_emission_log_score": 2.0739,
+      "emission_probability": 0.12569467231886078,
+      "conservation_score": 0.05975632930027563
     },
     {
       "aa_id": 89,
-      "aa_name": "F",
-      "hmm_emission_log_score": 1.65123,
-      "emission_probability": 0.19181396715099133,
-      "conservation_score": 2.6059681280810634
+      "aa_name": "L",
+      "hmm_emission_log_score": 2.0531,
+      "emission_probability": 0.12833639695878205,
+      "conservation_score": 0.05420893653490805
     },
     {
       "aa_id": 90,
-      "aa_name": "H",
-      "hmm_emission_log_score": 2.37669,
-      "emission_probability": 0.09285738424485332,
-      "conservation_score": 2.656934379075586
+      "aa_name": "A",
+      "hmm_emission_log_score": 2.29147,
+      "emission_probability": 0.10111772470628025,
+      "conservation_score": 0.06370814451892098
     },
     {
       "aa_id": 91,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.58373,
-      "emission_probability": 0.20520831938570094,
-      "conservation_score": 2.6911716840353046
+      "aa_name": "D",
+      "hmm_emission_log_score": 2.1478,
+      "emission_probability": 0.11674064917820959,
+      "conservation_score": 0.07663260266404967
     },
     {
       "aa_id": 92,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "E",
+      "hmm_emission_log_score": 2.00449,
+      "emission_probability": 0.13472902138499263,
+      "conservation_score": 0.09185982610230246
     },
     {
       "aa_id": 93,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.31282,
-      "emission_probability": 0.2690603834454111,
-      "conservation_score": 2.4283003429965713
+      "aa_name": "N",
+      "hmm_emission_log_score": 2.21745,
+      "emission_probability": 0.1088862736180889,
+      "conservation_score": 0.12464866270917203
     },
     {
       "aa_id": 94,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.65993,
+      "emission_probability": 0.1901520539393858,
+      "conservation_score": 0.1302807327718237
     },
     {
       "aa_id": 95,
-      "aa_name": "F",
-      "hmm_emission_log_score": 1.39721,
-      "emission_probability": 0.24728563326205796,
-      "conservation_score": 2.460463334802037
+      "aa_name": "H",
+      "hmm_emission_log_score": 2.38718,
+      "emission_probability": 0.09188847109552196,
+      "conservation_score": 0.11423140401336686
     },
     {
       "aa_id": 96,
-      "aa_name": "T",
-      "hmm_emission_log_score": 1.32841,
-      "emission_probability": 0.26489824570860515,
-      "conservation_score": 2.5509151275560464
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.59229,
+      "emission_probability": 0.20345896192687382,
+      "conservation_score": 0.1009307989213456
     },
     {
       "aa_id": 97,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.68903,
-      "emission_probability": 0.18469864366530905,
-      "conservation_score": 2.5970358099216333
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 98,
-      "aa_name": "G",
-      "hmm_emission_log_score": 2.17449,
-      "emission_probability": 0.11366617038660659,
-      "conservation_score": 2.835266373354683
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.3169,
+      "emission_probability": 0.26796406291541436,
+      "conservation_score": 0.19027807321704307
     },
     {
       "aa_id": 99,
-      "aa_name": "V",
-      "hmm_emission_log_score": 1.18166,
-      "emission_probability": 0.3067695350331654,
-      "conservation_score": 2.22945812342373
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 100,
-      "aa_name": "T",
-      "hmm_emission_log_score": 0.96178,
-      "emission_probability": 0.38221168784134124,
-      "conservation_score": 2.375994910636175
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.39706,
+      "emission_probability": 0.24732286627488193,
+      "conservation_score": 0.18055013294254715
     },
     {
       "aa_id": 101,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.70447,
-      "emission_probability": 0.1818686557448004,
-      "conservation_score": 2.7550408802108244
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.32508,
+      "emission_probability": 0.26578160083388963,
+      "conservation_score": 0.14949125721569814
     },
     {
       "aa_id": 102,
-      "aa_name": "R",
-      "hmm_emission_log_score": 0.79039,
-      "emission_probability": 0.4536687016036799,
-      "conservation_score": 2.181217574821206
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.69663,
+      "emission_probability": 0.18330020588512103,
+      "conservation_score": 0.1343154198719672
     },
     {
       "aa_id": 103,
-      "aa_name": "D",
-      "hmm_emission_log_score": 1.89485,
-      "emission_probability": 0.15034067413544275,
-      "conservation_score": 2.781304559764085
+      "aa_name": "G",
+      "hmm_emission_log_score": 2.1874,
+      "emission_probability": 0.11220812452710187,
+      "conservation_score": 0.053357409938156644
     },
     {
       "aa_id": 104,
-      "aa_name": "N",
-      "hmm_emission_log_score": 2.06095,
-      "emission_probability": 0.12733286537713673,
-      "conservation_score": 2.7422946912221025
+      "aa_name": "V",
+      "hmm_emission_log_score": 1.18503,
+      "emission_probability": 0.30573728196612765,
+      "conservation_score": 0.2558246737738316
     },
     {
       "aa_id": 105,
-      "aa_name": "W",
-      "hmm_emission_log_score": 1.99281,
-      "emission_probability": 0.13631172472786487,
-      "conservation_score": 2.6134885870555293
+      "aa_name": "T",
+      "hmm_emission_log_score": 0.95443,
+      "emission_probability": 0.3850322068337197,
+      "conservation_score": 0.2090809043741081
     },
     {
       "aa_id": 106,
-      "aa_name": "N",
-      "hmm_emission_log_score": 2.28149,
-      "emission_probability": 0.10213189737515228,
-      "conservation_score": 2.76566268799633
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.70862,
+      "emission_probability": 0.18111548599277857,
+      "conservation_score": 0.08044286011895625
     },
     {
       "aa_id": 107,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 1.80859,
-      "emission_probability": 0.16388511569677258,
-      "conservation_score": 2.808795416961528
+      "aa_name": "R",
+      "hmm_emission_log_score": 0.78386,
+      "emission_probability": 0.45664004394482993,
+      "conservation_score": 0.2745277125814576
     },
     {
       "aa_id": 108,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.24715,
-      "emission_probability": 0.2873228773289046,
-      "conservation_score": 2.2762625258676703
+      "aa_name": "D",
+      "hmm_emission_log_score": 1.89811,
+      "emission_probability": 0.1498513988017694,
+      "conservation_score": 0.07143724154031073
     },
     {
       "aa_id": 109,
-      "aa_name": "P",
-      "hmm_emission_log_score": 0.61069,
-      "emission_probability": 0.5429749649125858,
-      "conservation_score": 1.9706221479173813
+      "aa_name": "N",
+      "hmm_emission_log_score": 2.06926,
+      "emission_probability": 0.12627923244745162,
+      "conservation_score": 0.08437831821729665
     },
     {
       "aa_id": 110,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.37721,
-      "emission_probability": 0.252281490039138,
-      "conservation_score": 2.318410248784129
+      "aa_name": "W",
+      "hmm_emission_log_score": 2.00486,
+      "emission_probability": 0.13467887587263608,
+      "conservation_score": 0.12794703823405706
     },
     {
       "aa_id": 111,
-      "aa_name": "P",
-      "hmm_emission_log_score": 0.61069,
-      "emission_probability": 0.5429749649125858,
-      "conservation_score": 1.9706221479173813
+      "aa_name": "N",
+      "hmm_emission_log_score": 2.29376,
+      "emission_probability": 0.1008863998842257,
+      "conservation_score": 0.07660852937195724
     },
     {
       "aa_id": 112,
-      "aa_name": "V",
-      "hmm_emission_log_score": 1.88057,
-      "emission_probability": 0.15250291033130384,
-      "conservation_score": 2.7657997260157283
+      "aa_name": "Y",
+      "hmm_emission_log_score": 1.82032,
+      "emission_probability": 0.16197403708719835,
+      "conservation_score": 0.06215087167049319
     },
     {
       "aa_id": 113,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.83576,
-      "emission_probability": 0.15949211149541945,
-      "conservation_score": 2.7215186202682338
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.24735,
+      "emission_probability": 0.2872654865101219,
+      "conservation_score": 0.24130855204576068
     },
     {
       "aa_id": 114,
-      "aa_name": "L",
-      "hmm_emission_log_score": 0.87784,
-      "emission_probability": 0.4156788315533457,
-      "conservation_score": 2.1684951473899896
+      "aa_name": "P",
+      "hmm_emission_log_score": 0.60361,
+      "emission_probability": 0.5468342459300273,
+      "conservation_score": 0.34605107700189697
     },
     {
       "aa_id": 115,
-      "aa_name": "P",
-      "hmm_emission_log_score": 0.61069,
-      "emission_probability": 0.5429749649125858,
-      "conservation_score": 1.9706221479173813
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.38983,
+      "emission_probability": 0.24911784730036837,
+      "conservation_score": 0.22580916522033465
     },
     {
       "aa_id": 116,
-      "aa_name": "L",
-      "hmm_emission_log_score": 1.14774,
-      "emission_probability": 0.31735290412379513,
-      "conservation_score": 2.484102685001454
+      "aa_name": "P",
+      "hmm_emission_log_score": 0.60361,
+      "emission_probability": 0.5468342459300273,
+      "conservation_score": 0.34605107700189697
     },
     {
       "aa_id": 117,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.73861,
-      "emission_probability": 0.17576462230170858,
-      "conservation_score": 2.6474485795892675
+      "aa_name": "V",
+      "hmm_emission_log_score": 1.8923,
+      "emission_probability": 0.1507249087547391,
+      "conservation_score": 0.07621904792652169
     },
     {
       "aa_id": 118,
-      "aa_name": "S",
-      "hmm_emission_log_score": 1.14768,
-      "emission_probability": 0.3173728876900923,
-      "conservation_score": 2.453798084586027
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.84637,
+      "emission_probability": 0.15780892066183513,
+      "conservation_score": 0.09135771117301233
     },
     {
       "aa_id": 119,
-      "aa_name": "V",
-      "hmm_emission_log_score": 1.43588,
-      "emission_probability": 0.2379063789440173,
-      "conservation_score": 2.3179795574561997
+      "aa_name": "L",
+      "hmm_emission_log_score": 0.87375,
+      "emission_probability": 0.4173828241522782,
+      "conservation_score": 0.277844355120323
     },
     {
       "aa_id": 120,
-      "aa_name": "G",
-      "hmm_emission_log_score": 2.22928,
-      "emission_probability": 0.10760591591509586,
-      "conservation_score": 2.826837221871247
+      "aa_name": "P",
+      "hmm_emission_log_score": 0.60361,
+      "emission_probability": 0.5468342459300273,
+      "conservation_score": 0.34605107700189697
     },
     {
       "aa_id": 121,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 0.76755,
-      "emission_probability": 0.46414888753045874,
-      "conservation_score": 2.1710482101053508
+      "aa_name": "L",
+      "hmm_emission_log_score": 1.14801,
+      "emission_probability": 0.3172683049226594,
+      "conservation_score": 0.1710832352354368
     },
     {
       "aa_id": 122,
-      "aa_name": "G",
-      "hmm_emission_log_score": 2.60465,
-      "emission_probability": 0.07392892197164508,
-      "conservation_score": 2.746955985542626
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.74099,
+      "emission_probability": 0.17534659527042026,
+      "conservation_score": 0.11685877468359766
     },
     {
       "aa_id": 123,
-      "aa_name": "P",
-      "hmm_emission_log_score": 2.97874,
-      "emission_probability": 0.050856888869608124,
-      "conservation_score": 2.7865413188928305
+      "aa_name": "S",
+      "hmm_emission_log_score": 1.14489,
+      "emission_probability": 0.3182589351834855,
+      "conservation_score": 0.18200029517256167
     },
     {
       "aa_id": 124,
       "aa_name": "V",
-      "hmm_emission_log_score": 1.9651,
-      "emission_probability": 0.14014191454602762,
-      "conservation_score": 2.6896151701610584
+      "hmm_emission_log_score": 1.4451,
+      "emission_probability": 0.23572266335529424,
+      "conservation_score": 0.22597802059922464
     },
     {
       "aa_id": 125,
-      "aa_name": "T",
-      "hmm_emission_log_score": 1.69083,
-      "emission_probability": 0.18436642681676657,
-      "conservation_score": 2.6410769308678126
+      "aa_name": "G",
+      "hmm_emission_log_score": 2.23851,
+      "emission_probability": 0.1066171671933394,
+      "conservation_score": 0.05634450205501886
     },
     {
       "aa_id": 126,
-      "aa_name": "F",
-      "hmm_emission_log_score": 1.9267,
-      "emission_probability": 0.1456277020753341,
-      "conservation_score": 2.4147108971096807
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.7609,
+      "emission_probability": 0.46724610039466014,
+      "conservation_score": 0.27819427579473693
     },
     {
       "aa_id": 127,
-      "aa_name": "Q",
-      "hmm_emission_log_score": 1.85001,
-      "emission_probability": 0.15723568865667412,
-      "conservation_score": 2.7517891487416737
+      "aa_name": "G",
+      "hmm_emission_log_score": 2.62096,
+      "emission_probability": 0.07273312762632138,
+      "conservation_score": 0.08333291499990532
     },
     {
       "aa_id": 128,
-      "aa_name": "M",
-      "hmm_emission_log_score": 2.45854,
-      "emission_probability": 0.08555985947931566,
-      "conservation_score": 2.8112247430604005
+      "aa_name": "P",
+      "hmm_emission_log_score": 2.99636,
+      "emission_probability": 0.04996857808685591,
+      "conservation_score": 0.07043926924413535
     },
     {
       "aa_id": 129,
-      "aa_name": "T",
-      "hmm_emission_log_score": 1.22491,
-      "emission_probability": 0.293784067358059,
-      "conservation_score": 2.5235173623992893
+      "aa_name": "V",
+      "hmm_emission_log_score": 1.9837,
+      "emission_probability": 0.13755954533933498,
+      "conservation_score": 0.10126567113530124
     },
     {
       "aa_id": 130,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 0.76755,
-      "emission_probability": 0.46414888753045874,
-      "conservation_score": 2.1710482101053508
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.69406,
+      "emission_probability": 0.18377199747158204,
+      "conservation_score": 0.11892818940131214
     },
     {
       "aa_id": 131,
-      "aa_name": "I",
-      "hmm_emission_log_score": 1.03594,
-      "emission_probability": 0.35489282053277404,
-      "conservation_score": 2.1402948016798504
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.93551,
+      "emission_probability": 0.14435065656775187,
+      "conservation_score": 0.19508871509360468
     },
     {
       "aa_id": 132,
-      "aa_name": "P",
-      "hmm_emission_log_score": 0.61069,
-      "emission_probability": 0.5429749649125858,
-      "conservation_score": 1.9706221479173813
+      "aa_name": "Q",
+      "hmm_emission_log_score": 1.85568,
+      "emission_probability": 0.1563465490971825,
+      "conservation_score": 0.08109463060020677
     },
     {
       "aa_id": 133,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "M",
+      "hmm_emission_log_score": 2.47389,
+      "emission_probability": 0.0842564512399359,
+      "conservation_score": 0.06159521396933652
     },
     {
       "aa_id": 134,
-      "aa_name": "N",
-      "hmm_emission_log_score": 1.21168,
-      "emission_probability": 0.2976966819749613,
-      "conservation_score": 2.5315462932694204
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.22128,
+      "emission_probability": 0.2948518766022325,
+      "conservation_score": 0.15874124527863737
     },
     {
       "aa_id": 135,
-      "aa_name": "G",
-      "hmm_emission_log_score": 0.54798,
-      "emission_probability": 0.578116894494062,
-      "conservation_score": 1.8464202243410084
+      "aa_name": "Y",
+      "hmm_emission_log_score": 0.7609,
+      "emission_probability": 0.46724610039466014,
+      "conservation_score": 0.27819427579473693
     },
     {
       "aa_id": 136,
-      "aa_name": "N",
-      "hmm_emission_log_score": 0.93928,
-      "emission_probability": 0.3909090137697025,
-      "conservation_score": 2.3502719547890907
+      "aa_name": "I",
+      "hmm_emission_log_score": 1.03216,
+      "emission_probability": 0.35623738069282224,
+      "conservation_score": 0.2873264501760138
     },
     {
       "aa_id": 137,
-      "aa_name": "V",
-      "hmm_emission_log_score": 0.96457,
-      "emission_probability": 0.3811467390162003,
-      "conservation_score": 2.1696305564606226
+      "aa_name": "P",
+      "hmm_emission_log_score": 0.60361,
+      "emission_probability": 0.5468342459300273,
+      "conservation_score": 0.34605107700189697
     },
     {
       "aa_id": 138,
-      "aa_name": "Y",
-      "hmm_emission_log_score": 1.78861,
-      "emission_probability": 0.16719264251510058,
-      "conservation_score": 2.532155704510231
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 139,
-      "aa_name": "F",
-      "hmm_emission_log_score": 0.99771,
-      "emission_probability": 0.368722696939604,
-      "conservation_score": 2.2500360785511244
+      "aa_name": "T",
+      "hmm_emission_log_score": 1.49338,
+      "emission_probability": 0.22461221757467578,
+      "conservation_score": 0.13274168015142015
     },
     {
       "aa_id": 140,
-      "aa_name": "A",
-      "hmm_emission_log_score": 1.879,
-      "emission_probability": 0.15274280213336128,
-      "conservation_score": 2.79328163968421
+      "aa_name": "Y",
+      "hmm_emission_log_score": 2.1886,
+      "emission_probability": 0.1120735722728141,
+      "conservation_score": 0.048753646385205594
     },
     {
       "aa_id": 141,
-      "aa_name": "W",
-      "hmm_emission_log_score": 1.72735,
-      "emission_probability": 0.17775487767258513,
-      "conservation_score": 2.659443614360879
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.69477,
+      "emission_probability": 0.18364173219856722,
+      "conservation_score": 0.1109153278122762
     },
     {
       "aa_id": 142,
-      "aa_name": "M",
-      "hmm_emission_log_score": 2.74783,
-      "emission_probability": 0.0640666958220127,
-      "conservation_score": 2.803306531898203
+      "aa_name": "N",
+      "hmm_emission_log_score": 1.20765,
+      "emission_probability": 0.2988986880243501,
+      "conservation_score": 0.15587180638866843
     },
     {
       "aa_id": 143,
-      "aa_name": "R",
-      "hmm_emission_log_score": 1.28167,
-      "emission_probability": 0.2775736000073613,
-      "conservation_score": 2.5114596921515706
+      "aa_name": "G",
+      "hmm_emission_log_score": 0.54202,
+      "emission_probability": 0.581570896810079,
+      "conservation_score": 0.38723831812845894
     },
     {
       "aa_id": 144,
-      "aa_name": "F",
-      "hmm_emission_log_score": 1.93076,
-      "emission_probability": 0.14503810723758281,
-      "conservation_score": 2.7030616767035878
+      "aa_name": "N",
+      "hmm_emission_log_score": 0.93165,
+      "emission_probability": 0.3939035186063954,
+      "conservation_score": 0.21782589322575457
     },
     {
       "aa_id": 145,
-      "aa_name": "Q",
-      "hmm_emission_log_score": 1.8251,
-      "emission_probability": 0.16120152318667977,
-      "conservation_score": 2.7159978210212987
+      "aa_name": "V",
+      "hmm_emission_log_score": 0.96059,
+      "emission_probability": 0.3826665892406917,
+      "conservation_score": 0.27805252963384025
     },
     {
       "aa_id": 146,
-      "aa_name": "F",
-      "hmm_emission_log_score": 1.14358,
-      "emission_probability": 0.3186768115205171,
-      "conservation_score": 2.4439199949562815
+      "aa_name": "Y",
+      "hmm_emission_log_score": 1.805,
+      "emission_probability": 0.16447464527624134,
+      "conservation_score": 0.15596610932812488
     },
     {
       "aa_id": 147,
+      "aa_name": "F",
+      "hmm_emission_log_score": 0.99301,
+      "emission_probability": 0.37045990296943837,
+      "conservation_score": 0.25135983159740644
+    },
+    {
+      "aa_id": 148,
+      "aa_name": "A",
+      "hmm_emission_log_score": 1.88561,
+      "emission_probability": 0.15173652986427158,
+      "conservation_score": 0.06735544629702891
+    },
+    {
+      "aa_id": 149,
+      "aa_name": "W",
+      "hmm_emission_log_score": 1.72846,
+      "emission_probability": 0.17755778688531643,
+      "conservation_score": 0.11290282770026669
+    },
+    {
+      "aa_id": 150,
+      "aa_name": "M",
+      "hmm_emission_log_score": 2.76618,
+      "emission_probability": 0.06290185670178221,
+      "conservation_score": 0.06400561007289333
+    },
+    {
+      "aa_id": 151,
+      "aa_name": "R",
+      "hmm_emission_log_score": 1.2832,
+      "emission_probability": 0.2771491344494913,
+      "conservation_score": 0.16758696189421105
+    },
+    {
+      "aa_id": 152,
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.95517,
+      "emission_probability": 0.14154047553055535,
+      "conservation_score": 0.09657385496815109
+    },
+    {
+      "aa_id": 153,
+      "aa_name": "Q",
+      "hmm_emission_log_score": 1.82809,
+      "emission_probability": 0.1607203418029047,
+      "conservation_score": 0.09344219446628524
+    },
+    {
+      "aa_id": 154,
+      "aa_name": "F",
+      "hmm_emission_log_score": 1.14109,
+      "emission_probability": 0.3194709300307357,
+      "conservation_score": 0.18487347730329956
+    },
+    {
+      "aa_id": 155,
       "aa_name": "L",
-      "hmm_emission_log_score": 1.96438,
-      "emission_probability": 0.14024273057995795,
-      "conservation_score": 2.8408492377953003
+      "hmm_emission_log_score": 2.06847,
+      "emission_probability": 0.1263788524539132,
+      "conservation_score": 0.04500249282912745
     }
   ]
 }
