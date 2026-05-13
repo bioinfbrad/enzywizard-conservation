@@ -861,71 +861,37 @@ def clean_a3m(msa_list: List[Dict[str, str]], logger: Logger) -> List[Dict[str, 
         return None
 
 
-def postprocess_conservation_report_to_schema(raw_report: Dict[str, Any]) -> Dict[str, Any] | None:
+def postprocess_conservation_report_to_schema(
+    raw_report: Dict[str, Any],
+) -> Dict[str, Any] | None:
     """
-    Postprocess the raw EnzyWizard-Conservation report into the new JSON schema format.
-
+    Postprocess the raw EnzyWizard-Conservation report into the official JSON Schema field names.
     """
 
-    try:
-        if not isinstance(raw_report, dict):
-            return None
-
-        output_type = raw_report.get("output_type")
-        if output_type != "enzywizard_conservation":
-            return None
-
-        raw_conservation_scores = raw_report.get("conservation_scores")
-        if not isinstance(raw_conservation_scores, list):
-            return None
-
-        sequence_conservation_scores: List[Dict[str, Any]] = []
-
-        valid_residue_names = set("ACDEFGHIKLMNPQRSTVWY")
-
-        for item in raw_conservation_scores:
-            if not isinstance(item, dict):
-                return None
-
-            residue_index = item.get("aa_id")
-            residue_name = item.get("aa_name")
-            hmm_profile_raw_score = item.get("hmm_emission_log_score")
-            normalized_emission_probability = item.get("emission_probability")
-            normalized_shannon_information_content = item.get("conservation_score")
-
-            if not isinstance(residue_index, int):
-                return None
-
-            if not isinstance(residue_name, str):
-                return None
-
-            residue_name = residue_name.strip().upper()
-            if residue_name not in valid_residue_names:
-                return None
-
-            if not isinstance(hmm_profile_raw_score, (int, float)):
-                return None
-
-            if not isinstance(normalized_emission_probability, (int, float)):
-                return None
-
-            if not isinstance(normalized_shannon_information_content, (int, float)):
-                return None
-
-            sequence_conservation_scores.append(
-                {
-                    "residue_index": residue_index,
-                    "residue_name": residue_name,
-                    "hmm_profile_raw_score": float(hmm_profile_raw_score),
-                    "normalized_emission_probability": float(normalized_emission_probability),
-                    "normalized_shannon_information_content": float(normalized_shannon_information_content),
-                }
-            )
-
-        return {
-            "report_type": "enzywizard_conservation",
-            "sequence_conservation_scores": sequence_conservation_scores,
-        }
-
-    except Exception:
+    if not isinstance(raw_report, dict):
         return None
+
+    raw_conservation_scores = raw_report.get("conservation_scores")
+    if not isinstance(raw_conservation_scores, list):
+        return None
+
+    sequence_conservation_scores: List[Dict[str, Any]] = []
+
+    for raw_item in raw_conservation_scores:
+        if not isinstance(raw_item, dict):
+            return None
+
+        sequence_conservation_scores.append(
+            {
+                "residue_index": raw_item.get("aa_id"),
+                "residue_name": raw_item.get("aa_name"),
+                "hmm_profile_raw_score": raw_item.get("hmm_emission_log_score"),
+                "normalized_emission_probability": raw_item.get("emission_probability"),
+                "normalized_shannon_information_content": raw_item.get("conservation_score"),
+            }
+        )
+
+    return {
+        "report_type": raw_report.get("output_type"),
+        "sequence_conservation_scores": sequence_conservation_scores,
+    }
