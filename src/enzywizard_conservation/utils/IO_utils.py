@@ -4,6 +4,7 @@ from __future__ import annotations
 from pathlib import Path
 
 from ..utils.logging_utils import Logger
+import gzip
 import json
 
 from ..utils.common_utils import convert_to_json_serializable, InlineJSONEncoder, wrap_leaf_lists_as_rawjson, get_clean_filename, get_optimized_filename
@@ -19,7 +20,19 @@ def file_exists(path: str | Path) -> bool:
     return p.exists() and p.is_file()
 
 def get_stem(input_path: str | Path) -> str:
-    return Path(input_path).stem
+    p = Path(input_path)
+    if is_fasta_gz_path(p):
+        return p.name[:-len(".fasta.gz")]
+    return p.stem
+
+def is_fasta_gz_path(path: str | Path) -> bool:
+    return Path(path).name.lower().endswith(".fasta.gz")
+
+def open_fasta_text(path: str | Path):
+    p = Path(path)
+    if is_fasta_gz_path(p):
+        return gzip.open(p, "rt", encoding="utf-8")
+    return p.open("r", encoding="utf-8")
 
 MAXFILENAME=150
 
@@ -56,7 +69,7 @@ def load_msa(path: str | Path, logger: Logger) -> List[Dict[str, str]] | None:
         if suffix in {".sto", ".stockholm"}:
             return load_msa_sto(p, logger)
 
-        elif suffix in {".fa", ".fasta", ".afa"}:
+        elif suffix in {".fa", ".fasta", ".afa"} or is_fasta_gz_path(p):
             return load_msa_aligned_fasta(p, logger)
 
         elif suffix == ".a3m":
@@ -77,7 +90,7 @@ def load_fasta(path: str | Path, logger: Logger) -> Dict[str, str] | None:
         header: str | None = None
         seq_parts: list[str] = []
 
-        with p.open("r", encoding="utf-8") as f:
+        with open_fasta_text(p) as f:
             for raw_line in f:
                 line = raw_line.rstrip("\n").strip()
 
@@ -172,4 +185,3 @@ def write_hmm(sto_path: str | Path, output_path: str | Path, logger: Logger) -> 
     except Exception as e:
         logger.print(f"[ERROR] Exception in write_hmm: {e}")
         return False
-

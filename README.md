@@ -23,6 +23,8 @@ enzywizard-conservation -i examples/input/cleaned_1HVR.fasta -m examples/input/j
 -i, --input_fasta
 Required.
 Path to input cleaned protein sequence file in FASTA format.
+Supported formats:
+  - FASTA (.fasta / .fasta.gz)
 
 -m, --input_msa
 Required.
@@ -30,7 +32,7 @@ Path to input multiple sequence alignment (MSA) file prepared by the user.
 
 Supported formats:
   - Stockholm (.sto / .stockholm)
-  - aligned FASTA (.fa / .fasta / .afa)
+  - aligned FASTA (.fa / .fasta / .afa / .fasta.gz)
   - A3M (.a3m)
 
 The first sequence in the MSA must match the input query sequence.
@@ -97,10 +99,12 @@ This command processes the input sequence and MSA as follows:
 
 1. Load input sequence
    - Read the cleaned protein sequence from the FASTA file.
+   - Automatically decompress the input when the file is in .fasta.gz format.
    - Validate sequence format and characters.
 
 2. Load input MSA
    - Read the MSA from Stockholm, aligned FASTA, or A3M format.
+   - Automatically decompress the MSA when the file is in .fasta.gz format.
    - Preserve sequence alignment structure.
 
 3. Validate MSA
