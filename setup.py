@@ -26,7 +26,7 @@ setup(
     python_requires=">=3.10",
     install_requires=[
         "biopython>=1.86",
-        "numpy>=1.23.5",
+        "numpy>=1.23.5,<2",
         "packaging",
         # Note: hmmer is a system dependency (not a Python package). 
         # For Conda builds it must be listed in meta.yaml run requirements.
