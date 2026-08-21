@@ -1,5 +1,6 @@
 from __future__ import annotations
 from argparse import Namespace, ArgumentParser
+import sys
 from ..services.conservation_service import run_conservation_service
 
 def add_conservation_parser(parser: ArgumentParser) -> None:
@@ -11,4 +12,6 @@ def add_conservation_parser(parser: ArgumentParser) -> None:
     parser.set_defaults(func=run_conservation)
 
 def run_conservation(args: Namespace) -> None:
-    run_conservation_service(input_fasta=args.input_fasta, input_msa=args.input_msa, output_dir=args.output_dir)
+    success = run_conservation_service(input_fasta=args.input_fasta, input_msa=args.input_msa, output_dir=args.output_dir)
+    if not success:
+        sys.exit(1)

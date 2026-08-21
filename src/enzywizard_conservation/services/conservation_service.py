@@ -82,14 +82,20 @@ def run_conservation_service(input_fasta: str | Path, input_msa: str | Path, out
     json_report_path = output_dir / get_optimized_filename(f"conservation_report_{protein_name}.json")
 
     report=generate_conservation_report(conservation_scores)
-    write_json_from_dict_inline_leaf_lists(report,json_report_path)
+    if report is None:
+        logger.print("[ERROR] Failed to generate conservation report")
+        return False
+
+    try:
+        write_json_from_dict_inline_leaf_lists(report,json_report_path)
+    except Exception as e:
+        logger.print(f"[ERROR] Failed to write report JSON to {json_report_path}: {e}")
+        return False
     logger.print(f"[INFO] Report JSON saved: {json_report_path}")
 
     logger.print("[INFO] Conservation processing finished")
 
     return True
-
-
 
 
 
