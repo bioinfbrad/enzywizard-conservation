@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import os
 
-# Read version from version.py (currently "1.0.1")
+# Read version from version.py
 version_file = os.path.join(os.path.dirname(__file__), 'src', 'enzywizard_conservation', 'version.py')
 with open(version_file) as f:
     exec(f.read())          # defines __version__
@@ -12,7 +12,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="enzywizard-conservation",
-    version=__version__,                                    # e.g. "0.1.0"
+    version=__version__,
     author="bioinfbrad",
     description=(
         "Calculate residue sequence conservation from a cleaned protein sequence "
